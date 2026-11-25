@@ -24,3 +24,4 @@
   - [🤖 AGENTS.md](AGENTS.md)
   - [🛠️ Skill: Resumos](resumos/00.skill-resumo.md)
   - [🛠️ Skill: Questões](questoes/00.skill-questoes.md)
+
