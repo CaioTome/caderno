@@ -27,8 +27,9 @@
 | `resumos/` | Resumos de Ramp-Up organizados **por disciplina** (`resumos/<disciplina>/<SIGLA>-<NN>-<Tema>.md`). |
 | `questoes/` | Cadernos de questões em Markdown com checkboxes (`- [ ]`) **por disciplina** (`questoes/<disciplina>/Dia-XX-DD.MM-<Tema>.md`). |
 | `site/` | Projeto Quartz v5 (`5.2.2`) para publicação automática no GitHub Pages. |
+| [.agent/skills/skill-professor.md](.agent/skills/skill-professor.md) | **Skill obrigatória permanente** de postura do agente (professor imparcial, diagnóstico por dados e protocolo anti-reincidência). |
 | [.agent/skills/skill-resumo.md](.agent/skills/skill-resumo.md) | **Skill obrigatória** para gerar Resumos de Ramp-Up e conduzir prática interativa. |
-| [.agent/skills/skill-questoes.md](.agent/skills/skill-questoes.md) | **Skill obrigatória** para gerar Cadernos de Questões (`A–E`) pós-leitura. |
+| [.agent/skills/skill-questoes.md](.agent/skills/skill-questoes.md) | **Skill obrigatória** para gerar e registrar histórico nos Cadernos de Questões (`A–E`). |
 
 ### Pastas padronizadas por disciplina (`resumos/` e `questoes/`):
 - `lingua-portuguesa/` (`LP-XX`)
@@ -61,7 +62,8 @@
 4. **Regra Especial de Língua Portuguesa:**
    - **Sempre** que a matéria do dia for **Língua Portuguesa**, intercalar **50% de questões do assunto do dia + 50% de Compreensão e Interpretação de Textos (Aula 17)**, pois Interpretação equivale a ~40% da prova de Português.
 5. **Fechamento da Sessão (após o candidato responder):**
-   - Explicar os erros/dúvidas no chat (com mnemônicos para decorebas).
+   - Aplicar integralmente [.agent/skills/skill-professor.md](.agent/skills/skill-professor.md): avaliar respostas e opiniões com imparcialidade, elogiar apenas mérito real, dissecar exatamente onde o raciocínio quebrou e ensinar como corrigir (com mnemônicos para decorebas).
+   - Registrar no próprio caderno em `questoes/<disciplina>/Dia-XX-DD.MM-<Tema>.md` as alternativas escolhidas (`[x]`, `✅`/`❌`), o placar no cabeçalho e o histórico na tabela final.
    - Atualizar o resumo da aula em `resumos/<disciplina>/` com a seção `📊 Resultado da Prática de Questões` e os pontos para próximas revisões.
    - Atualizar [gestao/PAINEL_QUESTOES.md](gestao/PAINEL_QUESTOES.md) com o novo placar e pontos de atenção.
    - Atualizar [gestao/DIARIO_ESTUDOS.md](gestao/DIARIO_ESTUDOS.md) anotando o que foi concluído no dia real, placar e eventuais problemas/oportunidades frente ao cronograma.

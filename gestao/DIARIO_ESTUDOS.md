@@ -8,8 +8,8 @@
 
 ### 🔴 Problemas & Gargalos (Onde Agir nas Revisões)
 1. **Equivalências Lógicas (`RLM-03`) com `50,0%` (`3/6`):** Menor aproveitamento até aqui; erros concentrados em direção da condicional (`p → q` e *"somente se"*), negação de `⊻` com termo negado e fatoração distributiva `(p → q) ∧ (p → ~r)`. **Ação:** bateria de reforço de 15–20 questões no domingo (`29/11`) ou antes.
-2. **Aulas concluídas no cronograma sem placar registrado no [PAINEL_QUESTOES.md](PAINEL_QUESTOES.md):**
-   - **Direito Constitucional — Adm. Pública (`DC-01`)** e **Raciocínio Lógico — Estruturas Lógicas I (`RLM-01`)** estão marcados `[x]` no cronograma, mas ainda não possuem bateria registrada com acertos/erros. **Ação:** rodar simulado rápido (`10q` FAPEC cada) para validar retenção.
+2. **Aula concluída no cronograma ainda sem placar registrado no [PAINEL_QUESTOES.md](PAINEL_QUESTOES.md):**
+   - **Raciocínio Lógico — Estruturas Lógicas I (`RLM-01`)** está marcada `[x]`, mas ainda não possui bateria registrada. *(Obs.: **Direito Constitucional — Adm. Pública `DC-01`** ganhou hoje seu caderno de 10 questões para medição!)*
 3. **PMBOK 6ª Edição (`GTI-01`) com amostra pequena (`3/5` = `60,0%`):** Confusão pontual entre Grupo de Integração (`4.1 TAP`) vs. Escopo e fórmulas de Valor Agregado (`SPI = VA / VP`). **Ação:** completar mais 10–15 questões para consolidar a amostra.
 4. **Pendências de Checklist / Revisão Espaçada #1 (`22/11`):**
    - Os itens *Repetição Espaçada (25–30 questões erradas)* e *Buffer de Segurança* do Dia 03 (`22/11`) seguem `[ ]`.
@@ -34,7 +34,7 @@
 | **Dia 03 — `22/11` (Dom)** | **Revisão Espaçada #1:** Active Recall + 25–30q erros + Buffer | Active Recall concluído `[x]`; criado resumo **LP-17** (Interpretação de Textos, previsto p/ `23/11`) | *Horas n/r* | 🟡 **Misto** | **Oportunidade:** adiantou resumo de LP-17. **Problema:** 2 itens da revisão espaçada seguem `[ ]`. |
 | **Dia 04 — `23/11` (Seg)** | **LP-17:** Compreensão e Interpretação | Estudada **GTI-04 (MPS.BR)** (prevista p/ `24/11`, `7/10`) e criado resumo **RLM-03 (Equivalências)** (previsto p/ `25/11`); LP-17 marcada `[x]` | `7/10` (`70,0%`) • *Bruto 10:19 (líq. n/r)* | 🟢 **Adiantado (+1/+2 dias)** | MPS.BR teve boa estreia (`70%`), atenção em `CP-F` (`AP 2.2`). |
 | **Dia 05 — `24/11` (Ter)** | **GTI-04:** MPS.BR | Prática de **RLM-03 (Equivalências)** (`3/6`), **GTI-01 (PMBOK 6)** (`3/5` — previsto p/ `26/11`) e **Sessão 2 de MPS.BR** (`4/5`) | `10/16` (`62,5%`) • **Líquido: `05:49`** *(Bruto `08:10`)* | 🟡 **Adiantado em conteúdo, alerta em nota** | **Problemas:** RLM-03 (`50%`) e PMBOK 6 (`60%`, amostra curta). **Positivo:** MPS.BR subiu para `80%` na sessão 2 (`73,3%` geral). |
-| **Dia 06 — `25/11` (Qua)** | **RLM-03:** Equivalências Lógicas *(já iniciada antes)* | Concluída **LP-15 (Coesão e Coerência)** + **LP-17 (Interpretação)** (`9/10`, prevista p/ `27/11`); iniciada **RLM-02 (Estruturas Lógicas II)** (prevista p/ `28/11`) com resumo + caderno 10q | `9/10` (`90,0%`) *(em andamento c/ RLM-02)* • *Início 07:30* | 🟢 **Adiantado (+2/+3 dias)** | **Oportunidade:** LP-15 fechada com `90%` (`5/5` Interp.); adiantamento abre espaço para revisar RLM-03 e atacar Lei 8.112. |
+| **Dia 06 — `25/11` (Qua)** | **RLM-03:** Equivalências Lógicas *(já iniciada antes)* | Concluída **LP-15** + **LP-17** (`9/10`, prevista p/ `27/11`); concluída **RLM-02 (Estruturas Lógicas II)** (`7/10`, prevista p/ `28/11`); gerado caderno 10q de **DC-01 (Adm. Pública)** | `16/20` (`80,0%` no dia) • *Início 07:30 / Almoço 10:00 / Tarde 13:10* | 🟢 **Adiantado (+2/+3 dias)** | **Oportunidade:** LP-15 (`90%`) e RLM-02 fechadas antes do prazo. **Alerta:** 3 erros em RLM-02 (precedência, simplificação indevida, `V→F`) mostram o que ajustar antes de recuperar RLM-03. |
 
 ---
 
@@ -70,10 +70,11 @@
 - **Alertas gerados:** Reforçar `RLM-03` e ampliar amostra de `GTI-01`.
 
 ### `Dia 06 — 25/11/2026 (Quarta-feira)` *(em curso)*
-- **Foco:** Português ([LP-15-Coesao-e-Coerencia.md](../resumos/lingua-portuguesa/LP-15-Coesao-e-Coerencia.md)) + adiantamento de Raciocínio Lógico ([RLM-02-Estruturas-Logicas-II.md](../resumos/raciocinio-logico/RLM-02-Estruturas-Logicas-II.md)).
+- **Foco:** Português ([LP-15-Coesao-e-Coerencia.md](../resumos/lingua-portuguesa/LP-15-Coesao-e-Coerencia.md)), Raciocínio Lógico ([RLM-02-Estruturas-Logicas-II.md](../resumos/raciocinio-logico/RLM-02-Estruturas-Logicas-II.md)) e aferição de Direito Constitucional ([DC-01-Adm-Publica.md](../resumos/legislacao/DC-01-Adm-Publica.md)).
 - **Feito até agora:**
-  - Concluído resumo + caderno [Dia-06-25.11-Coesao-Coerencia-Interpretacao.md](../questoes/lingua-portuguesa/Dia-06-25.11-Coesao-Coerencia-Interpretacao.md) com **`9/10` (`90,0%`)** (`5/5` Interpretação, `4/5` Coesão/Coerência; único erro: Q03 `elas` = *lembrança + ficção*). Aula 15 marcada `[x]` no cronograma.
+  - Manhã (`07:30–10:00`): concluído [Dia-06-25.11-Coesao-Coerencia-Interpretacao.md](../questoes/lingua-portuguesa/Dia-06-25.11-Coesao-Coerencia-Interpretacao.md) com **`9/10` (`90,0%`)** (`5/5` Interpretação, `4/5` Coesão/Coerência; único erro: Q03 `elas` = *lembrança + ficção*). Aula 15 marcada `[x]` no cronograma.
   - Reorganizados todos os `resumos/` por disciplina (padrão igual ao de `questoes/`) e criado este `DIARIO_ESTUDOS.md`.
-  - Gerado resumo e caderno de 10 questões ([Dia-06-25.11-Estruturas-Logicas-II.md](../questoes/raciocinio-logico/Dia-06-25.11-Estruturas-Logicas-II.md)) de **Estruturas Lógicas II** *(prevista para `28/11` — adiantada em 3 dias)*.
-- **Pendente para fechar o dia:** Resolver as 10 questões de `Estruturas Lógicas II` e registrar as horas líquidas do Dia 06 no [CONTROLE_HORAS.md](CONTROLE_HORAS.md).
+  - Tarde (`13:10–...`): concluída **Estruturas Lógicas II** *(prevista para `28/11`)* com **`7/10` (`70,0%`)** em [Dia-06-25.11-Estruturas-Logicas-II.md](../questoes/raciocinio-logico/Dia-06-25.11-Estruturas-Logicas-II.md) (erros em Q01, Q02, Q08); Aula 02 RLM marcada `[x]` no cronograma.
+  - Gerado caderno de 10 questões de **Adm. Pública (CF Art. 37–41)** em [Dia-06-25.11-Adm-Publica-Art37-41.md](../questoes/legislacao/Dia-06-25.11-Adm-Publica-Art37-41.md) para registrar o placar faltante de `DC-01`.
+- **Pendente para fechar o dia:** Resolver as 10 questões de `Adm. Pública (CF Art. 37–41)`, alinhar estratégia via `/grill-me` e informar o tempo líquido final do Dia 06 no [CONTROLE_HORAS.md](CONTROLE_HORAS.md).
 

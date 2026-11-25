@@ -15,10 +15,10 @@
 | **Equivalências Lógicas** | Raciocínio Lógico | `3` | `6` | **50,0%** | [📄 Abrir](../resumos/raciocinio-logico/RLM-03-Equivalencias-Logicas.md) |
 | **Adm. Pública (Art. 37 a 41 CF/88)** | Direito Const. | `—` | `—` | *Sem registro* | [📄 Abrir](../resumos/legislacao/DC-01-Adm-Publica.md) |
 | **Estruturas Lógicas I** | Raciocínio Lógico | `—` | `—` | *Sem registro* | [📄 Abrir](../resumos/raciocinio-logico/RLM-01-Estruturas-Logicas-I.md) |
-| **Estruturas Lógicas II** | Raciocínio Lógico | `—` | `—` | *Sem registro* | [📄 Abrir](../resumos/raciocinio-logico/RLM-02-Estruturas-Logicas-II.md) |
+| **Estruturas Lógicas II** | Raciocínio Lógico | `7` | `10` | **70,0%** | [📄 Abrir](../resumos/raciocinio-logico/RLM-02-Estruturas-Logicas-II.md) |
 | **Compreensão e Interpretação de Textos** | Língua Portuguesa | `5` | `5` | **100,0%** | [📄 Abrir](../resumos/lingua-portuguesa/LP-17-Interpretacao-Textos.md) |
 | **Coesão e Coerência Textual** | Língua Portuguesa | `4` | `5` | **80,0%** | [📄 Abrir](../resumos/lingua-portuguesa/LP-15-Coesao-e-Coerencia.md) |
-| **TOTAL (com placar registrado)** | **6 conteúdos** | **`44`** | **`58`** | **75,9%** | — |
+| **TOTAL (com placar registrado)** | **7 conteúdos** | **`51`** | **`68`** | **75,0%** | — |
 
 ---
 
@@ -32,3 +32,4 @@
 | `24/11` | **PMBOK 6ª Edição** | `3/5` *(60,0%)* | 🟡 **Amostra pequena (5q):** `4.1 TAP` é Integração (não Escopo) e fórmulas de EVM (`SPI = VA/VP`). |
 | `24/11` | **MPS.BR (Sessão 2)** | `4/5` *(80,0%)* | Fronteira `G → F` (`AP 2.2` / `GQA`: auditoria contra padrões e resolução de não conformidades). |
 | `25/11` | **Coesão e Coerência + Interpretação (LP)** | `9/10` *(90,0%)* | 🟢 **Ótimo desempenho (`5/5` Interp. / `4/5` Coesão):** revisar pronome plural retomando dois antecedentes no singular (`lembrança + ficção` → `elas`) e coesão por repetição lexical (`nome` → `nomes`) vs. termo novo. |
+| `25/11` | **Estruturas Lógicas II (RLM-02)** | `7/10` *(70,0%)* | 🟡 **Base fechada (`Q03–Q07`, `Q09–Q10` certas):** corrigir simplificação inválida em `(p→q)∧(q→r)` (`Q01`), identificar conectivo principal por precedência (`Q02`) e testar sempre a linha `V→F` (`Q08`). Agora pronto para recuperar **Equivalências (`RLM-03`)**. |

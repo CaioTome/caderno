@@ -59,9 +59,13 @@ Todo caderno deve seguir exatamente esta estrutura:
 ## 4. 🔄 Pós-Prática (Quando o Candidato Terminar)
 
 Quando o usuário informar os acertos/erros ou pedir revisão:
-1. Comentar no chat apenas as questões que ele errou ou teve dúvida (com mnemônico/regra se for decoreba).
-2. Atualizar o resumo da aula em `resumos/<disciplina>/` com a seção `📊 Resultado da Prática de Questões` e sugestões para próximas revisões.
-3. Atualizar `gestao/PAINEL_QUESTOES.md` com o placar consolidado e pontos de atenção.
-4. Atualizar `gestao/DIARIO_ESTUDOS.md` (comparativo Planejado × Realizado, problemas e oportunidades) e `gestao/CONTROLE_HORAS.md` (se o candidato informar horas líquidas).
-5. Marcar `[x]` no `gestao/CRONOGRAMA_ESTUDOS.md` quando a aula for concluída.
+1. **Registrar histórico no próprio `.md` do caderno de questões:**
+   - Marcar `[x]` na alternativa que o candidato escolheu em **cada questão** (com `✅` se acertou, ou `❌ *(Sua resposta; Gabarito: X)*` se errou; se deixou em branco/teve dúvida, registrar em nota logo abaixo das alternativas).
+   - Atualizar o cabeçalho com `**Resultado Registrado:** X/10 (XX,X%) — corrigido em DD/MM/AAAA`.
+   - Atualizar a tabela `## 📋 Gabarito & Histórico` adicionando as colunas `Sua Resposta` e `Resultado` (`✅`/`❌`), mantendo o gabarito limpo e rastreável para futuras revisões.
+2. Comentar no chat os acertos e os erros/dúvidas de forma imparcial (elogiando o raciocínio certo, pontuando exatamente onde houve falha e como corrigir, com mnemônico/regra se for decoreba).
+3. Atualizar o resumo da aula em `resumos/<disciplina>/` com a seção `📊 Resultado da Prática de Questões` e sugestões para próximas revisões.
+4. Atualizar `gestao/PAINEL_QUESTOES.md` com o placar consolidado e pontos de atenção.
+5. Atualizar `gestao/DIARIO_ESTUDOS.md` (comparativo Planejado × Realizado, problemas e oportunidades) e `gestao/CONTROLE_HORAS.md` (se o candidato informar horas líquidas).
+6. Marcar `[x]` no `gestao/CRONOGRAMA_ESTUDOS.md` quando a aula for concluída.
 

@@ -146,3 +146,17 @@ Considere `(P → Q) ∨ (R ↔ P)` e analise:
   - **Prioridade 1 (Caderno FAPEC):** resolva primeiro as **10 questões `A–E`** selecionadas em [Dia-06-25.11-Estruturas-Logicas-II.md](../../questoes/raciocinio-logico/Dia-06-25.11-Estruturas-Logicas-II.md).
   - **Prioridade 2 (Reforço no PDF):** se errar alguma, ataque as baterias `2.2` (`págs. 17–30`), `2.4` (`págs. 55–83`) e `2.6` (`págs. 114–140`) nos subtópicos correspondentes.
 
+
+---
+
+## 📊 Resultado da Prática de Questões
+
+- **Data:** `25/11/2026` *(Dia 06 Real — Adiantado do Dia 09)*
+- **Caderno:** [Dia-06-25.11-Estruturas-Logicas-II.md](../../questoes/raciocinio-logico/Dia-06-25.11-Estruturas-Logicas-II.md)
+- **Placar:** **`7/10` (`70,0%`)** — acertos: Q03, Q04, Q05, Q06, Q07, Q09, Q10; erros: **Q01, Q02, Q08**.
+
+### 🔍 Diagnóstico & Pontos para Próximas Revisões
+1. **Q01 — Simplificação algébrica indevida:** Em `(p → q) ∧ (q → r)`, traduzir literalmente cada condicional antes de tentar simplificar (`(~p ∨ q) ∧ (~q ∨ r)` **não** vira `~p ∧ r`).
+2. **Q02 — Precedência / Conectivo principal (`N-EO-X-SE-SSE`):** "Qual tipo de proposição é a fórmula" = identifique o **último conectivo** a ser executado fora dos parênteses (`~`, depois `∧`/`∨`, depois `⊻`, depois `→`, por último `↔`).
+3. **Q08 — Teste completo da linha falsa na condicional (`V → F`):** Não assumir que `(... → ~P)` é tautologia sem testar forçar consequente falso (`~P = F ⇒ P = V`) e verificar se existe valor de `Q` que torne o antecedente verdadeiro (`Q = F` torna `P ∧ ~Q = V`).
+4. **Próximo passo (`Equivalências Lógicas — RLM-03`):** Com a base de tabela-verdade e valoração consolidada agora, refazer 10–15 questões de `RLM-03` usando teste de valoração `V/F` para subir dos `50%` atuais.
