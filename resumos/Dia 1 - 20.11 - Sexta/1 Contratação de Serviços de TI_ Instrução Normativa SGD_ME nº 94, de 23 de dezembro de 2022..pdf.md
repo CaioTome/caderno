@@ -1,0 +1,217 @@
+# 🚀 Ramp-Up & Guia de Decorebas — Dia 01 (20/11/2026)
+## 💻 Legislação de TI: Instrução Normativa da Secretaria de Governo Digital do Ministério da Economia (IN SGD/ME) nº 94, de 23 de dezembro de 2022
+
+> **🎯 Foco Estratégico (TIER S — Altíssima Incidência):** A **Instrução Normativa da Secretaria de Governo Digital do Ministério da Economia (IN SGD/ME) nº 94/2022** substituiu a antiga Instrução Normativa (IN) nº 01/2019 para adequar as contratações de soluções de **Tecnologia da Informação e Comunicação (TIC)** à **Nova Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021)**. Em provas para **Analista de Tecnologia da Informação / Gestão de Projetos de Software**, as bancas (especialmente a **Fundação de Apoio à Pesquisa, ao Ensino e à Cultura (FAPEC)**) cobram a **literalidade** sobre **quem faz o quê (papéis)**, **quem assina cada documento (artefatos)**, **o que é proibido contratar (vedações)** e **regras específicas do Anexo I**.
+
+---
+
+## 1. 🧭 Visão Geral e Escopo (Art. 1º)
+
+- **A quem se aplica?** Aos órgãos e entidades integrantes do **Sistema de Administração dos Recursos de Tecnologia da Informação (SISP)** do Poder Executivo Federal.
+- **Base Legal:** Regulamenta a **Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021)** para soluções de **Tecnologia da Informação e Comunicação (TIC)**.
+- **As 3 Fases do Processo de Contratação de Soluções de Tecnologia da Informação e Comunicação (PCTI) (Art. 8º):**
+  1. **Fase 1 — Planejamento da Contratação (PC / PCTI)**
+  2. **Fase 2 — Seleção do Fornecedor (SF)** *(É a Licitação!)*
+  3. **Fase 3 — Gestão do Contrato (GC)** *(Execução, Fiscalização e Pagamento)*
+  - ⚠️ **Gerenciamento de Riscos / Mapa de Gerenciamento de Riscos (MGR):** **NÃO é uma fase isolada!** É um processo **transversal** que ocorre durante **todas as três fases** da contratação.
+- **Exceção de Baixo Valor (Dispensa de Licitação — Art. 1º, § 1º):** Nas contratações diretas por dispensa de pequeno valor (Art. 75, inciso II da Lei nº 14.133/2021), a aplicação da **Instrução Normativa (IN) nº 94/2022** é **facultativa**, **EXCETO** quanto ao:
+  - **Art. 6º:** Alinhamento ao **Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)**, à **Estratégia de Governo Digital (EGD)** e integração à plataforma **gov.br**; e
+  - **Art. 24:** Uso do **Índice de Custos de Tecnologia da Informação (ICTI)** para reajuste.
+
+---
+
+## 2. 👥 Atores e Equipes: Quem é Quem na Instrução Normativa (IN) nº 94/2022 (Arts. 2º, 10 e 29)
+
+A maior fonte de pegadinhas de prova é trocar as atribuições dos integrantes da **Equipe de Planejamento da Contratação (EPC)** com os da **Equipe de Fiscalização do Contrato (EFC)**, ou confundir os tipos de fiscais.
+
+### A) As 3 Áreas Envolvidas
+1. **Área Requisitante:** Unidade de negócio que demanda a solução (quem tem a "dor" / necessidade).
+2. **Área de Tecnologia da Informação e Comunicação (Área de TIC):** Setor técnico responsável por avaliar a viabilidade tecnológica e apoiar a solução.
+3. **Área Administrativa:** Setor de licitações e contratos que conduz os trâmites administrativos e legais.
+
+### B) Comparativo Cirúrgico: Equipe de Planejamento da Contratação (EPC) vs. Equipe de Fiscalização do Contrato (EFC)
+
+| Perspectiva / Área | Na Fase 1: Equipe de Planejamento da Contratação (**EPC**) | Na Fase 3: Equipe de Fiscalização do Contrato (**EFC**) |
+| :--- | :--- | :--- |
+| **Coordenação Geral** | *Atuação colegiada da Equipe de Planejamento da Contratação (EPC) + Autoridade Máxima da Área de Tecnologia da Informação e Comunicação (TIC)* | **Gestor do Contrato:** Servidor com atribuições gerenciais; coordena os fiscais, emite o **Termo de Recebimento Definitivo (TRD)** e autoriza o faturamento (emissão de Nota Fiscal). |
+| **Visão de Negócio** *(Área Requisitante)* | **Integrante Requisitante:** Traduz a necessidade de negócio; inicia a demanda com o **Documento de Formalização da Demanda (DFD)**. | **Fiscal Requisitante do Contrato:** Verifica se a solução entregue atende à necessidade funcional e de negócio da área usuária (apoia o Fiscal Técnico no recebimento provisório e o Gestor no definitivo). |
+| **Visão Tecnológica** *(Área de Tecnologia da Informação e Comunicação - TIC)* | **Integrante Técnico:** Define requisitos tecnológicos, arquitetura, padrões e avalia soluções de mercado. | **Fiscal Técnico do Contrato:** Avalia a conformidade técnica, aplica listas de verificação, mede os **Níveis Mínimos de Serviço (NMS)** / **Acordo de Nível de Serviço (ANS / SLA)** e emite o **Termo de Recebimento Provisório (TRP)** de serviços. |
+| **Visão Processual** *(Área Administrativa)* | **Integrante Administrativo:** Cuida dos aspectos formais, licitatórios, contratuais e de conformidade legal. | **Fiscal Administrativo do Contrato:** Verifica regularidade fiscal, trabalhista, previdenciária, garantias, prazos e documentação formal. |
+| **Unidades Descentralizadas** | — | **Fiscal Setorial do Contrato:** Acompanha a execução técnica ou administrativa em unidades desconcentradas ou regionais do órgão (quando necessário). |
+| **Lado da Contratada** | — | **Preposto:** Representante formalmente indicado pela **empresa contratada** (não é servidor público!); atua como interlocutor operacional junto à Administração. |
+
+### ⚠️ Regras de Ouro sobre Acumulação e Destituição de Papéis (Despenca em Prova!)
+1. **Regra Geral na Equipe de Planejamento da Contratação (EPC):** Os papéis de Integrante Requisitante, Integrante Técnico e Integrante Administrativo **NÃO podem ser acumulados pelo mesmo servidor**.
+   - **Única Exceção (Art. 10, § 3º):** Os papéis de **Integrante Requisitante e Integrante Técnico** podem ser acumulados pelo mesmo servidor **em casos excepcionais**, mediante **justificativa fundamentada** e **aprovação do Comitê de Governança Digital (CGD)** (ou estrutura equivalente). *(O Integrante Administrativo NUNCA acumula!).*
+2. **Autoridade Máxima da Área de Tecnologia da Informação e Comunicação (TIC) na Equipe de Planejamento da Contratação (EPC) ou na Equipe de Fiscalização do Contrato (EFC):** O chefe máximo da área de Tecnologia da Informação e Comunicação (TIC) **não pode** ser indicado para integrar a Equipe de Planejamento da Contratação (EPC) ou ser Gestor/Fiscal, **salvo** em caso excepcional devidamente justificado pela autoridade máxima do órgão.
+3. **Destituição Automática da Equipe de Planejamento da Contratação (EPC) (Art. 29, § 9º):** A Equipe de Planejamento da Contratação (EPC) mantém-se ativa apoiando a licitação na Fase 2 (Seleção do Fornecedor) e é **automaticamente destituída no momento da assinatura do contrato** (início da Fase 3, e **não** apenas no faturamento final!).
+4. **Fiscais podem ser os mesmos servidores da Equipe de Planejamento da Contratação (EPC)?** Embora os *papéis* sejam distintos (planejar $\neq$ fiscalizar), os servidores que participaram da Equipe de Planejamento da Contratação (EPC) podem vir a ser designados formalmente para compor a Equipe de Fiscalização do Contrato (EFC), caso a autoridade competente assim os nomeie na portaria de fiscalização.
+
+---
+
+## 3. 📄 Fluxo das Fases e Artefatos: Quem Elabora e Quem Aprova
+
+```
+[FASE 1: PLANEJAMENTO DA CONTRATAÇÃO (PC)]
+   │
+   ├── 1. Documento de Formalização da Demanda (DFD) ──► Área Requisitante envia à Área de Tecnologia da Informação e Comunicação (TIC)
+   │      └── Área de TIC verifica Plano Diretor de TIC (PDTIC) e Plano de Contratações Anual (PCA)
+   │      └── Área Administrativa institui formalmente a Equipe de Planejamento da Contratação (EPC)
+   │
+   ├── 2. Estudo Técnico Preliminar (ETP) ────────────► Elaborado por: Integrante Técnico + Integrante Requisitante (JUNTOS!)
+   │                                                    Aprovado por: Integrante Técnico + Integrante Requisitante + Autoridade Máxima de TIC
+   │
+   └── 3. Termo de Referência (TR) ───────────────────► Elaborado por: Toda a Equipe de Planejamento da Contratação (EPC: Técnico + Requisitante + Administrativo)
+          (+ Mapa de Gerenciamento de Riscos - MGR)     Aprovado por: Toda a EPC + Autoridade Máxima de TIC
+   │
+[FASE 2: SELEÇÃO DO FORNECEDOR (SF) — A LICITAÇÃO]
+   │
+   ├── Início: Encaminhamento do Termo de Referência (TR) à Área de Licitações
+   ├── Condução: Área de Licitações (Pregoeiro / Agente ou Comissão de Contratação) com apoio técnico-consultivo da EPC
+   ├── Modalidades: Pregão (Bens/Serviços Comuns) | Concorrência (Bens/Serviços Especiais) | Diálogo Competitivo (Inovação/Complexidade)
+   └── Fim: Adjudicação e Homologação do resultado da licitação
+   │
+[FASE 3: GESTÃO DO CONTRATO (GC) — EXECUÇÃO E FISCALIZAÇÃO]
+   │
+   ├── 1. Assinatura do Contrato ──► DESTITUI AUTOMATICAMENTE a Equipe de Planejamento da Contratação (EPC) e designa a Equipe de Fiscalização do Contrato (EFC)
+   ├── 2. Reunião Inicial ─────────► Apresentação do Preposto + entrega do Termo de Compromisso de Sigilo e Termos de Ciência
+   ├── 3. Execução ────────────────► Via Ordem de Serviço (OS) ou Ordem de Fornecimento de Bens (OFB)
+   └── 4. Recebimento e Pagamento ─► Termo de Recebimento Provisório (TRP - Fiscal Técnico) ──► Verificação (Fiscais Técnico, Requisitante e Administrativo) ──► Termo de Recebimento Definitivo (TRD - Gestor do Contrato) ──► Autorização de Faturamento (Nota Fiscal)
+```
+
+### Quadro-Resumo de Artefatos (Decoreba Obrigatória com Nome Completo + Sigla!)
+
+| Artefato (Nome Completo + Sigla) | O que é / Finalidade | Quem Elabora | Quem Aprova / Assina |
+| :--- | :--- | :--- | :--- |
+| **Documento de Formalização da Demanda (DFD)** *(Substituiu o antigo Documento de Oficialização da Demanda - DOD)* | Primeiro documento formal; descreve a necessidade de negócio, justificativa, estimativa preliminar de preços e dimensionamento de quantidades. | **Área Requisitante** (Integrante Requisitante) | Encaminhado à **Área de Tecnologia da Informação e Comunicação (TIC)** (que valida alinhamento ao **Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)** e ao **Plano de Contratações Anual (PCA)** e indica o Integrante Técnico) e depois à **Área Administrativa** (que indica o Integrante Administrativo e institui a **Equipe de Planejamento da Contratação (EPC)**). |
+| **Estudo Técnico Preliminar (ETP)** | Avalia alternativas de mercado e de outros órgãos (Software Público), calcula o **Custo Total de Propriedade / *Total Cost of Ownership* (TCO)**, verifica padrões como **Padrões de Interoperabilidade de Governo Eletrônico (ePING)** e **Modelo de Acessibilidade em Governo Eletrônico (eMAG)** e declara a **viabilidade** ou não da contratação. | **Integrante Técnico** + **Integrante Requisitante** *(Elaboram JUNTOS! O Integrante Administrativo NÃO elabora o ETP!)* | **Integrante Técnico** + **Integrante Requisitante** + **Autoridade Máxima da Área de Tecnologia da Informação e Comunicação (TIC)** |
+| **Termo de Referência (TR)** | Especifica o objeto para o edital de licitação: códigos do **Catálogo de Materiais (CATMAT)** e **Catálogo de Serviços (CATSER)**, requisitos, Modelo de Execução, Modelo de Gestão com **Níveis Mínimos de Serviço (NMS)**, estimativa de preços, regime de execução e modalidade/critérios de seleção. | **Toda a Equipe de Planejamento da Contratação (EPC)** (Integrante Técnico + Integrante Requisitante + Integrante Administrativo) | **Toda a Equipe de Planejamento da Contratação (EPC)** (os 3 integrantes) + **Autoridade Máxima da Área de Tecnologia da Informação e Comunicação (TIC)** |
+| **Mapa de Gerenciamento de Riscos (MGR)** | Registro dinâmico de riscos, probabilidades, impactos, ações preventivas e de contingência e responsáveis. Atualizado em todas as 3 fases. | **Equipe de Planejamento da Contratação (EPC)** (nas Fases 1 e 2) e **Equipe de Fiscalização do Contrato (EFC)** (na Fase 3) | Junto com as etapas de cada fase. |
+| **Ordem de Serviço (OS)** ou **Ordem de Fornecimento de Bens (OFB)** | Documento utilizado na Fase 3 (Gestão do Contrato) para solicitar formalmente à empresa contratada a prestação de serviços ou entrega de bens, com volume e cronograma. | **Equipe de Fiscalização do Contrato (EFC)** / **Gestor do Contrato** | **Gestor do Contrato** (e ciência do **Preposto**). |
+| **Termo de Recebimento Provisório (TRP)** | Declara que os serviços foram prestados (ou bens entregues), para verificação posterior de conformidade com as exigências do contrato. | **Fiscal Técnico do Contrato** (para serviços) ou responsável pelo acompanhamento (para compras/bens). | **Fiscal Técnico do Contrato** |
+| **Termo de Recebimento Definitivo (TRD)** | Comprova o atendimento definitivo de todas as exigências contratuais (técnicas, de negócio e administrativas). Libera a autorização para emissão da Nota Fiscal (faturamento). | **Gestor do Contrato** (após as verificações do **Fiscal Técnico**, do **Fiscal Requisitante** e do **Fiscal Administrativo**). | **Gestor do Contrato** |
+
+> **💡 Pegadinha Clássica sobre Requisitos no Termo de Referência (TR) (Art. 16):**
+> - **Requisitos de Negócio, Legais, Sociais, Ambientais e de Capacitação:** definidos pelo **Integrante Requisitante**.
+> - **Requisitos Tecnológicos** (arquitetura, linguagens, implantação, garantia, manutenção): definidos pelo **Integrante Técnico**.
+> - **Requisitos de Segurança da Informação e Privacidade (SIP) e Lei Geral de Proteção de Dados Pessoais (LGPD):** definidos **EM CONJUNTO** pelos **Integrantes Técnico e Requisitante**!
+
+---
+
+## 4. 🚫 Vedações Críticas: O que a Instrução Normativa (IN) nº 94/2022 PROÍBE (Arts. 3º, 4º e 5º)
+
+Se uma questão perguntar *"É permitido na contratação de Tecnologia da Informação e Comunicação (TIC)..."*, passe pelo filtro destas vedações:
+
+1. **Proibido "Contrato Guarda-Chuva" (Art. 3º, I):** É **vedado** incluir mais de uma solução de Tecnologia da Informação e Comunicação (TIC) em um único contrato.
+2. **Proibido Terceirizar a Gestão / Autoridade (Art. 3º, II e § 1º):** É **vedada** a contratação de **gestão de processos de Tecnologia da Informação e Comunicação (TIC)** e **gestão de segurança da informação**.
+   - *Atenção à Exceção:* Pode-se contratar o **apoio técnico** aos processos de gestão e planejamento, desde que sob **supervisão exclusiva de servidores públicos** (contrata-se o *braço operacional*, nunca a *tomada de decisão/autoridade*).
+3. **Separação entre quem Executa e quem Avalia/Mensura (Art. 4º):** A empresa que desenvolve ou fornece a solução **NÃO pode** ser a mesma que a avalia, mensura (ex: fábrica de métricas / contagem de **Pontos de Função (PF)**) ou apoia a fiscalização.
+4. **Vedações Práticas do Art. 5º (Checklist Anti-Pegadinha):**
+   - ❌ **Vínculo de subordinação** ou pessoalidade com funcionários da contratada (toda comunicação deve ser via **Preposto** ou **Ordem de Serviço (OS)**).
+   - ❌ **Métrica Homem-Hora / Unidade de Serviço Técnico (UST) / Hora de Serviço Técnico (HST) como regra:** É vedado o pagamento por esforço/hora trabalhada ou mera alocação de postos de trabalho sem vinculação a **resultados / entregas mensuráveis por Níveis Mínimos de Serviço (NMS)**, salvo situações excepcionais justificadas.
+   - ❌ **Reembolso de salários ou despesas:** Proibido prever reembolso de transporte/hospedagem ou pagamento baseado em reembolso de salários.
+   - ❌ **Exigir funcionários já contratados ou certificados antes da assinatura:** Na Fase 2 (Seleção do Fornecedor / Licitação), **não se pode exigir** que a empresa licitante já possua os profissionais no quadro ou certificações de fabricantes/parceria exclusiva que restrinjam a competição. (As certificações dos profissionais são exigidas apenas na Fase 3 — Gestão do Contrato!).
+
+---
+
+## 5. 🔢 Números, Prazos, Índices e Regras Especiais (Foco Total em Prova)
+
+| Tema / Regra | Valor / Prazo / Definição na Instrução Normativa (IN) nº 94/2022 |
+| :--- | :--- |
+| **Alinhamento Obrigatório (Arts. 6º e 7º)** | Toda contratação deve constar no **Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)**, no **Plano de Contratações Anual (PCA)**, alinhar-se à **Estratégia de Governo Digital (EGD)** e integrar serviços digitais à plataforma **gov.br**. |
+| **Quando o Estudo Técnico Preliminar (ETP) é Dispensado ou Facultado? (Art. 9º, § 4º)** | Situações de **guerra, estado de defesa, estado de sítio, calamidade pública, grave perturbação da ordem ou emergência** (hipóteses da Lei nº 14.133/2021). |
+| **Vigência de Sistemas Estruturantes (Art. 13, parágrafo único)** | Contratos de operação continuada de **sistemas estruturantes de tecnologia da informação** (ex: **Sistema Integrado de Administração Financeira do Governo Federal (SIAFI)**, **Sistema Integrado de Administração de Pessoal (SIAPE)**, **eSocial**) podem ter vigência de **até 15 anos**! |
+| **Índice Oficial de Reajuste de Tecnologia da Informação e Comunicação (TIC) (Art. 24)** | **Índice de Custos de Tecnologia da Informação (ICTI)**, mantido pelo **Instituto de Pesquisa Econômica Aplicada (IPEA)**. É obrigatório para serviços contínuos de Tecnologia da Informação e Comunicação (TIC) sem dedicação exclusiva de mão de obra (em vez de índices gerais como o Índice Nacional de Preços ao Consumidor Amplo - IPCA). |
+| **Teto de Preços Padronizados (PMC-TIC)** | **Preço Máximo de Compra de Tecnologia da Informação e Comunicação (PMC-TIC):** Teto para itens padronizados no Catálogo de Soluções. O órgão não pode contratar nem prorrogar acima do **Preço Máximo de Compra de Tecnologia da Informação e Comunicação (PMC-TIC)** (se estiver acima na prorrogação, é **obrigatório renegociar**). |
+| **Modalidades de Licitação na Fase 2 (Art. 25)** | • **Pregão:** **Obrigatório** para **Bens e Serviços Comuns de Tecnologia da Informação e Comunicação (TIC)** (padrões de desempenho e qualidade objetivamente definidos pelo mercado).<br>• **Concorrência:** Para **Bens e Serviços Especiais de Tecnologia da Informação e Comunicação (TIC)** (alta heterogeneidade ou complexidade).<br>• **Diálogo Competitivo:** Inovação da Lei nº 14.133/2021 para contratações de inovação tecnológica ou técnica onde a Administração **não consegue definir de antemão as especificações técnicas** sem dialogar previamente com os fornecedores. |
+| **Critérios de Julgamento (Art. 23)** | Regra geral: **Menor Preço** (ou Maior Desconto). Admite-se **Técnica e Preço** para objetos especiais/complexos mediante justificativa. |
+| **Prazos de Publicação e Transparência (Art. 34)** | • **Estudo Técnico Preliminar (ETP) e Termo de Referência (TR):** publicados na internet **antes da licitação**.<br>• **Inteiro teor do Contrato e Termos Aditivos:** publicados em **até 30 dias** após a assinatura. |
+| **Antecedência para Prorrogação Contratual (Art. 36)** | Documentação de prorrogação deve ser iniciada com pelo menos **60 dias de antecedência** do término do contrato + nova pesquisa de preços. |
+| **Termos de Sigilo na Reunião Inicial da Fase 3 (Art. 18, V e Art. 31)** | • **Termo de Compromisso de Manutenção de Sigilo:** assinado pelo **representante legal da empresa contratada**.<br>• **Termo de Ciência:** assinado individualmente por **cada profissional** da contratada que terá acesso a dados. |
+
+---
+
+## 6. 🌩️ Diretrizes Específicas do Anexo I (Muito Cobradas em Provas!)
+
+1. **Política *"Cloud First"* (Nuvem Primeiro):**
+   - Para criar, ampliar ou renovar infraestrutura de **Centro de Dados (*Data Center*)**, o órgão **DEVE contratar serviços de computação em nuvem**, **SALVO** quando o **Estudo Técnico Preliminar (ETP)** demonstrar a sua inviabilidade técnica ou econômica.
+2. **Proibição de Salas-Cofre e Salas Seguras:**
+   - É **vedada** a criação ou ampliação de **salas-cofre e salas seguras**, **salvo** com autorização prévia do **Órgão Central do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP)** — ou seja, a **Secretaria de Governo Digital (SGD)**.
+   - *Diferença conceitual:* **Sala-cofre** é uma sala segura que possui certificação específica da **Associação Brasileira de Normas Técnicas (ABNT NBR 15.247)** ou norma europeia **EN 1047-2** ou equivalente. Na manutenção de sala-cofre existente, **não se pode exigir exclusivamente** a **ABNT NBR 15.247** (deve-se aceitar equivalentes acreditados pelo **Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro)**).
+3. **Proibição de Desenvolver Software de Atividade-Meio:**
+   - É **vedado** usar contratos de fábrica de software para desenvolver sistemas de **atividade-meio** (ex: Recursos Humanos - RH, ponto eletrônico, protocolo / **Gestão Eletrônica de Documentos (GED)**, almoxarifado, patrimônio, frota, portaria), **salvo** autorização do **Órgão Central do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP)**. (Para atividade-meio, os órgãos devem usar as soluções centralizadas do governo, como **SouGov.br**, **Sistema Eletrônico de Informações (SEI)**, **Compras.gov.br**).
+4. **Proibição de Contratar Solução de Autenticação e Portais na Internet:**
+   - **Autenticação:** Vedado contratar solução de login/autenticação para serviços públicos digitais (deve-se usar a conta **gov.br**), salvo autorização do **Órgão Central do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP)**.
+   - **Portais na Internet:** Vedado contratar desenvolvimento/hospedagem de novos portais institucionais ou de notícias na internet (devem ser unificados no portal **gov.br**), salvo autorização do Órgão Central. *(Exceção: a vedação não se aplica a sítios de sistemas em si, domínios militares `.mil.br` e portais de instituições de ensino `.edu.br` / universidades como a **Universidade Federal de Mato Grosso do Sul (UFMS)**!).*
+5. **Licenciamento de Software e Serviços Agregados:**
+   - É **proibido** pagar cobrança retroativa de suporte/atualização por período em que o órgão ficou descoberto, ou taxa de "reativação".
+   - Correção de *bugs* (erros) durante a validade técnica do software é **obrigação legal sem ônus adicional** (Lei do Software — Lei nº 9.609/1998).
+   - É **proibido** exigir contratação casada de *suporte técnico + atualização de versão* quando o órgão só precisar de um deles.
+   - Exige-se das licitantes declaração de **não ocorrência de "registro de oportunidade"** (prática em que o fabricante dá desconto apenas para um revendedor que "registrou" o órgão primeiro, frustrando a competitividade da licitação).
+
+---
+
+## 🎯 Roteiro Prático para o Seu Estudo de Hoje — Calibrado para a Banca FAPEC (UFMS)
+
+> **🔍 Raio-X da Banca Fundação de Apoio à Pesquisa, ao Ensino e à Cultura (FAPEC) — banca oficial da Universidade Federal de Mato Grosso do Sul (UFMS):**
+> - **Formato:** Múltipla escolha de **5 alternativas (A, B, C, D, E)** (frequentemente no formato de itens `I, II, III` para marcar *"Estão corretas apenas..."* ou *"Assinale a alternativa INCORRETA"*).
+> - **Perfil da Prova de TI e Legislação:** A comissão de TI das provas da **Fundação de Apoio à Pesquisa, ao Ensino e à Cultura (FAPEC)** é fortemente influenciada pelos docentes da **Faculdade de Computação (FACOM/UFMS)**. Diferente da Fundação Getulio Vargas (FGV) (que cria estudos de caso longos e interpretativos), a **FAPEC é 100% literal e objetiva ("letra fria da norma" e listas de conceitos)**.
+> - **As 4 Pegadinhas Favoritas da FAPEC na Instrução Normativa (IN) nº 94/2022:**
+>   1. **Troca de sujeito ("Quem faz o quê"):** Trocar *Integrante Técnico* por *Integrante Administrativo* (ex: dizer que o Administrativo elabora o **Estudo Técnico Preliminar (ETP)**), ou *Fiscal Técnico* (**Termo de Recebimento Provisório - TRP**) por *Gestor do Contrato* (**Termo de Recebimento Definitivo - TRD**).
+>   2. **Inversão de palavras restritivas:** Trocar *"vedado"* por *"permitido"*, *"obrigatório"* por *"facultativo"*, *"exclusivamente"* por *"preferencialmente"*.
+>   3. **Troca de números e siglas:** Trocar **15 anos** (vigência de sistemas estruturantes) por 5 ou 10 anos; **60 dias** (antecedência de prorrogação) por 30 dias; **30 dias** (publicação do contrato) por 15 dias; ou **Índice de Custos de Tecnologia da Informação (ICTI)** por Índice Nacional de Preços ao Consumidor Amplo (IPCA).
+>   4. **Ocultação da Exceção:** Afirmar que *"os papéis da Equipe de Planejamento da Contratação (EPC) jamais podem ser acumulados em nenhuma hipótese"* (errado, pois Integrante Requisitante + Integrante Técnico podem acumular excepcionalmente com aprovação do **Comitê de Governança Digital (CGD)**).
+
+### Passo a Passo no PDF de Hoje:
+
+1. **Abra o PDF da Aula 01:** [1 Contratação de Serviços de TI: Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022.pdf](file:///home/caio/Documentos/%28E%29%202026_2_%20P%C3%93S%20-%20UFMS%20%28Analista%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o-Gest%C3%A3o%20de%20Projetos%20de%20Software/Mat%C3%A9rias/Legisla%C3%A7%C3%A3o%20de%20TI%20para%20UFMS%20%28Analista%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o_Gest%C3%A3o%20de%20Projetos%20de%20Software%29/1%20Contrata%C3%A7%C3%A3o%20de%20Servi%C3%A7os%20de%20TI_%20Instru%C3%A7%C3%A3o%20Normativa%20SGD_ME%20n%C2%BA%2094%2C%20de%2023%20de%20dezembro%20de%202022..pdf)
+2. **Pule a leitura linear longa (págs. 3 a 37)** e passe os olhos apenas nas **Tabelas e Anexo I (págs. 39 a 45)** e no **Mapa Mental (pág. 54)** para consolidar visualmente o que você acabou de ler neste resumo.
+3. **Como atacar as Questões Comentadas do PDF (págs. 54 a 123) com foco FAPEC:**
+   - **Prioridade 1 — Questões de Múltipla Escolha (FGV pág. 75 e Multibancas pág. 91):** Foque nas questões que cobram a literalidade dos artigos, papéis da **Equipe de Planejamento da Contratação (EPC)** e da **Equipe de Fiscalização do Contrato (EFC)** e artefatos (**Documento de Formalização da Demanda (DFD)**, **Estudo Técnico Preliminar (ETP)**, **Termo de Referência (TR)**).
+   - **Prioridade 2 — Questões Certo/Errado (CEBRASPE pág. 54):** Use como **"Flashcards de Letra Seca"**. Na prova da **Fundação de Apoio à Pesquisa, ao Ensino e à Cultura (FAPEC)**, cada alternativa `(A, B, C, D, E)` nada mais é do que 5 itens de *Certo/Errado* agrupados!
+4. **Ao terminar:** Me avise aqui quais questões você teve dúvida ou errou para registrarmos no seu **Caderno de Erros** e marcarmos o `[x]` do **Dia 01** no seu [CRONOGRAMA_ESTUDOS.md](file:///home/caio/Documentos/%28E%29%202026_2_%20P%C3%93S%20-%20UFMS%20%28Analista%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o-Gest%C3%A3o%20de%20Projetos%20de%20Software/CRONOGRAMA_ESTUDOS.md)!
+
+---
+
+## 📝 Questões Comentadas (Padrão FAPEC — Múltipla Escolha)
+
+### 1. Fiscal Técnico do Contrato *(FGV - 2024 - CGE PB | PDF pág. 79)*
+**Gabarito: Letra D**
+- **Por que está correta:** O **Fiscal Técnico do Contrato** é o responsável pela conformidade técnica da execução, cabendo a ele emitir notificações para a correção de rotinas ou de qualquer inexatidão/irregularidade constatada, definindo prazo para a correção.
+- **Por que as outras estão erradas:**
+  - *(a), (b) e (c)* Encaminhar demandas formalmente, confeccionar/assinar o **Termo de Recebimento Definitivo (TRD)** e autorizar o faturamento são atribuições do **Gestor do Contrato** (e não do Fiscal Técnico).
+  - *(e)* Prestar apoio administrativo e controlar prazos contratuais é função do **Fiscal Administrativo do Contrato**.
+
+### 2. Modalidades e Critérios de Julgamento *(FGV - 2024 - DNIT | PDF pág. 80)*
+**Gabarito: Letra C**
+- **Por que está correta:** A **Instrução Normativa (IN) nº 94/2022** admite o critério de julgamento **Técnica e Preço** para a contratação de **Bens e Serviços Especiais de Tecnologia da Informação e Comunicação (TIC)**, desde que devidamente justificado nos autos.
+- **Por que as outras estão erradas:**
+  - *(a)* Descreve a **Empreitada Integral**, não a por Preço Unitário.
+  - *(b)* Descreve o regime de **Fornecimento e Prestação de Serviço Associado**, não a Empreitada Integral.
+  - *(d)* O **Pregão** é obrigatório para bens e serviços **comuns** (e não de alta complexidade).
+  - *(e)* O **Diálogo Competitivo** é usado para contratações complexas/inovadoras onde a Administração não consegue definir a solução sozinha (e não para bens comuns).
+
+### 3. Gestão do Contrato e Acumulação de Papéis *(CEBRASPE - 2025 - SEFAZ RJ | PDF pág. 95)*
+**Gabarito: Letra D**
+- **Por que está correta:** Os servidores que participaram da **Equipe de Planejamento da Contratação (EPC)** na Fase 1 **podem** ser designados formalmente como fiscais (Técnico, Requisitante ou Administrativo) na Fase 3, pois os papéis são distintos, mas não há vedação à designação dos mesmos servidores.
+- **Por que as outras estão erradas:**
+  - *(a) Pegadinha clássica!* A Fase 3 (**Gestão do Contrato**) inicia-se com a **assinatura do contrato**, e **não** com a assinatura do **Documento de Formalização da Demanda (DFD)** (que abre a Fase 1 — Planejamento).
+  - *(b)* É vedada a acumulação do papel de **Gestor do Contrato** com o de **Fiscal Requisitante**.
+  - *(c)* A **Autoridade Máxima da Área de Tecnologia da Informação e Comunicação (TIC)** não deve ser indicada para papéis de fiscalização (salvo caso excepcional justificado pela autoridade máxima do órgão).
+  - *(e)* A acumulação excepcional na **Equipe de Fiscalização do Contrato (EFC)** não exige aprovação do **Comitê de Governança Digital (CGD)** (essa exigência é para a **Equipe de Planejamento da Contratação - EPC**).
+
+### 4. Catálogo de Soluções de TIC Padronizadas *(CEBRASPE - 2025 - SEFAZ SE | PDF pág. 96)*
+**Gabarito: Letra E**
+- **Por que está correta:** O uso dos catálogos de soluções padronizadas do **Sistema de Administração dos Recursos de Tecnologia da Informação (SISP)** tem caráter **facultativo**, traz agilidade e previsibilidade orçamentária, mas **não dispensa** a realização de pesquisa de preços.
+- **Por que as outras estão erradas:**
+  - *(a), (b) e (c)* A adesão ao catálogo **não** dispensa a fiscalização técnica, **não** dispensa o **Estudo Técnico Preliminar (ETP)** e **não** dispensa o **Termo de Referência (TR)**.
+  - *(d)* Os catálogos aplicam-se tanto a software de código aberto quanto a **soluções proprietárias de mercado** (ex: Microsoft, Oracle, etc.).
+
+### 5. Estudo Técnico Preliminar (ETP) e PMC-TIC *(CEBRASPE - 2025 - SEFAZ SE | PDF pág. 97)*
+**Gabarito: Letra D**
+- **Por que está correta:** O **Estudo Técnico Preliminar (ETP)** deve definir e especificar os requisitos necessários e suficientes à escolha da solução, detalhando e justificando inclusive a forma de cálculo dos quantitativos de bens e serviços.
+- **Por que as outras estão erradas:**
+  - *(a)* A dispensa do **Estudo Técnico Preliminar (ETP)** não é automática para empresas públicas de TIC; exige justificativa nas hipóteses legais.
+  - *(b)* A ordem é inversa: primeiro vem o **Documento de Formalização da Demanda (DFD)**, e depois o **Estudo Técnico Preliminar (ETP)**.
+  - *(c)* O **Preço Máximo de Compra de Tecnologia da Informação e Comunicação (PMC-TIC)** é obrigatório apenas para os órgãos integrantes do **Sistema de Administração dos Recursos de Tecnologia da Informação (SISP)**.
+  - *(e)* O **Estudo Técnico Preliminar (ETP)** é elaborado pelos **Integrantes Técnico e Requisitante** (e não exclusivamente pela área de TIC).
