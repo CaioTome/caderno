@@ -156,5 +156,20 @@ As questões de reescritura avaliam **três critérios independentes** (e freque
   - Como você já leu este Ramp-Up, **não precisa reler as págs. 3–25 linha por linha**. Use o Mapa Mental apenas para revisão rápida se travar em algum mecanismo.
   - **Prioridade 1 (Múltipla Escolha `A–E` — estilo FAPEC):** ataque as questões da **FCC, FGV, Instituto AOCP e VUNESP** nas seções `15.3` (págs. 42, 53–82), `15.5` (págs. 84–89) e `15.7` (págs. 93–124).
   - **Prioridade 2 (CEBRASPE Certo/Errado):** faça em modo *Flashcard de Velocidade* (15–20s por item) para treinar identificação rápida de referente e troca de conectivo.
-- **Meta de Sessão (Intercalada):** resolver **15 a 25 questões** alternando **Coesão/Coerência/Reescritura (Aula 15)** com **Compreensão e Interpretação de Textos (Aula 17)**, registrando eventuais erros no Caderno de Erros e atualizando o [Painel de Questões](../01.painel-questoes.md).
+- **Meta de Sessão (Intercalada):** resolver **15 a 25 questões** alternando **Coesão/Coerência/Reescritura (Aula 15)** com **Compreensão e Interpretação de Textos (Aula 17)**, registrando eventuais erros no Caderno de Erros e atualizando o [Painel de Questões](../../gestao/PAINEL_QUESTOES.md).
 
+
+---
+
+## 📊 Resultado da Prática de Questões
+
+- **Data:** `25/11/2026` *(Dia 06 Real)*
+- **Caderno:** [Dia-06-25.11-Coesao-Coerencia-Interpretacao.md](../../questoes/lingua-portuguesa/Dia-06-25.11-Coesao-Coerencia-Interpretacao.md)
+- **Placar Geral:** **`9/10` (`90,0%`)**
+  - **Coesão, Coerência e Reescritura (Aula 15):** `4/5` (`80,0%`) — acerto nas Q01, Q05, Q07, Q09; erro na **Q03**.
+  - **Compreensão e Interpretação de Textos (Aula 17):** `5/5` (`100,0%`) — acerto nas Q02, Q04, Q06, Q08, Q10.
+
+### 🔍 Pontos para Próximas Revisões
+1. **Pronome no plural retomando dois antecedentes no singular (Q03):** Atenção a pronomes como `elas`/`eles` após duas perguntas ou dois termos coordenados (`lembrança` + `ficção` → `elas`), em vez de buscar um substantivo já no plural mais distante (`memórias`).
+2. **Coesão lexical por repetição vs. termo novo (Q01):** Palavra repetida no texto (`nome próprio` → `nomes`) estabelece coesão referencial/lexical; termo que surge pela primeira vez (`escolha`) é referente novo, sem anáfora anterior.
+3. **Manutenção de Interpretação (Aula 17):** Excelente precisão (`100%` nessa bateria); manter a prática intercalada nas próximas sessões de Português.

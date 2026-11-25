@@ -1,6 +1,6 @@
 # 🛠️ Skill: Gerador de Resumo de Ramp-Up — Concurso UFMS (Banca FAPEC)
 
-> **Propósito:** Padronizar a criação dos **Resumos Iniciais de Ramp-Up & Guia de Decorebas** para todas as aulas do [CRONOGRAMA_ESTUDOS.md](../CRONOGRAMA_ESTUDOS.md) do concurso **UFMS — Analista de Tecnologia da Informação / Gestão de Projetos de Software** (banca **FAPEC / FACOM-UFMS**).
+> **Propósito:** Padronizar a criação dos **Resumos Iniciais de Ramp-Up & Guia de Decorebas** para todas as aulas do [CRONOGRAMA_ESTUDOS.md](../../gestao/CRONOGRAMA_ESTUDOS.md) do concurso **UFMS — Analista de Tecnologia da Informação / Gestão de Projetos de Software** (banca **FAPEC / FACOM-UFMS**).
 
 ---
 
@@ -19,8 +19,8 @@
 ## 2. 📋 Procedimento Obrigatório (Passo a Passo antes de Escrever)
 
 1. **Identificar a Aula do Dia:**
-   - Ler `CRONOGRAMA_ESTUDOS.md` e localizar o próximo dia não concluído (`[ ]`).
-   - Verificar a pasta `resumos/` para confirmar em qual pasta de **dia real de estudo** o usuário está trabalhando (ex.: `resumos/Dia 4 - 23.11 - Segunda/`). A numeração e a data das pastas em `resumos/` refletem o **dia real em que o candidato estuda**, podendo divergir da data/dia planejado no `CRONOGRAMA_ESTUDOS.md` (ex.: estar adiantado ou atrasado). Se a pasta do dia real ainda não existir, criar usando a data de hoje no padrão `Dia X - DD.MM - DiaSemana`.
+   - Ler `gestao/CRONOGRAMA_ESTUDOS.md` e localizar o próximo dia não concluído (`[ ]`) ou a aula solicitada pelo candidato.
+   - Verificar `gestao/DIARIO_ESTUDOS.md` e `gestao/CONTROLE_HORAS.md` para confirmar o **dia real de estudo** (`Dia XX — DD/MM`) em que o candidato está trabalhando, registrando eventuais adiantamentos ou atrasos em relação ao cronograma planejado.
 2. **Inspecionar os Materiais Reais da Aula:**
    - Localizar o PDF principal da aula em `materias/` e sua pasta de apoio (Mapas Mentais, resumos, questões extras).
    - Extrair via `pdfinfo` / `pdftotext` (ou script Python):
@@ -39,10 +39,11 @@
 
 ## 3. 📁 Convenção de Arquivos e Atualização do Cronograma
 
-- **Pasta:** `resumos/Dia-<XX>-<DD.MM>/` referente ao **dia real de estudo** (independente da data planejada no `gestao/CRONOGRAMA_ESTUDOS.md`, caso o candidato esteja adiantado ou atrasado).
-- **Nome do Arquivo:** `<SIGLA>-<NN>-<Tema-Curto>.md` sem espaços/acentos (ex.: `LP-15-Coesao-e-Coerencia.md`, `GTI-01-PMBOK-6.md`).
-- **Atualização no `gestao/CRONOGRAMA_ESTUDOS.md` e `_sidebar.md`:**
-  - Adicionar o link `[🚀 Resumo de Ramp-Up (Dia XX Real)](../resumos/Dia-XX-DD.MM/<Arquivo>.md)` no item `Checklist da Aula` do dia correspondente e atualizar o `_sidebar.md`.
+- **Pasta por Disciplina:** `resumos/<disciplina>/` usando as mesmas pastas padronizadas de `questoes/` (`lingua-portuguesa/`, `governanca-ti/`, `engenharia-software/`, `legislacao-ti/`, `legislacao/`, `raciocinio-logico/`, `lingua-inglesa/`).
+- **Nome do Arquivo:** `<SIGLA>-<NN>-<Tema-Curto>.md` sem espaços/acentos (ex.: `LP-15-Coesao-e-Coerencia.md`, `RLM-02-Estruturas-Logicas-II.md`, `GTI-01-PMBOK-6.md`).
+- **Atualização no `gestao/CRONOGRAMA_ESTUDOS.md` e `gestao/DIARIO_ESTUDOS.md`:**
+  - Adicionar o link `[🚀 Resumo de Ramp-Up (Dia XX Real)](../resumos/<disciplina>/<Arquivo>.md)` no item `Checklist da Aula` do dia correspondente em `gestao/CRONOGRAMA_ESTUDOS.md` (sem alterar a barra lateral manualmente — o Quartz gera a navegação no deploy).
+  - Registrar no `gestao/DIARIO_ESTUDOS.md` que a aula foi iniciada/adiantada/concluída no dia real.
   - **NUNCA** marcar `[x]` na aula ou no checklist antes de o candidato estudar e finalizar as questões!
 
 ---
@@ -92,10 +93,9 @@ Quando o candidato pedir questões para praticar após o resumo:
 6. **Feedback ao responder:**
    - Ao receber a resposta: validar o raciocínio do candidato (reforçando o que ele acertou na lógica e corrigindo eventuais confusões de conceito/pegadinha), explicar por que as outras alternativas estão erradas e, em seguida, enviar a **próxima questão inédita** de outro subtópico.
 
-7. **Encerramento da Sessão de Questões:** Ao final (quando o candidato pedir para encerrar), **atualizar o resumo da matéria** do dia com uma seção **"📊 Resultado da Prática de Questões"** contendo:
-   - **Pontuação** (questões certas/total) e data.
-   - **Tabela questão a questão** (banca, subtópico, resposta do candidato, gabarito, acerto/erro).
-   - **Pontos de revisão** sugeridos pelo agente, com base nos erros e nas confusões observadas.
+7. **Encerramento da Sessão de Questões:** Ao final (quando o candidato pedir para encerrar):
+   - **Atualizar o resumo da matéria** em `resumos/<disciplina>/` com uma seção **"📊 Resultado da Prática de Questões"** contendo pontuação, data, erros/dúvidas e **pontos sugeridos para próximas revisões**.
+   - **Atualizar `gestao/PAINEL_QUESTOES.md` e `gestao/DIARIO_ESTUDOS.md`** com o novo placar, problemas identificados e oportunidades de revisão.
 
 ---
 

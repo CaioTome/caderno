@@ -295,5 +295,5 @@ Enquanto **G e F** olham para **projetos individuais**, **E, D e C** padronizam 
    - **Prioridade 1 — Multibancas (pág. 100 a 132):** Onde estão as questões da **FAPEC/UFMS 2022** (págs. 111–113) e diversas bancas `A–E` cobrando 2012, 2016 e 2021!
    - **Prioridade 2 — FCC (pág. 67 a 81) e IADES (pág. 90 a 94):** Múltipla escolha `A–E` muito parecida com a FAPEC (literalidade de processos, APs e níveis).
    - **Prioridade 3 — CEBRASPE (pág. 48 a 59):** Modo *Flashcard de Velocidade* (Certo/Errado) para caçar palavras trocadas em 10 segundos.
-4. **Ao terminar:** Me envie os seus acertos e as questões que errou para montarmos o **Caderno de Erros** e marcarmos o `[x]` do **Dia 05** no [CRONOGRAMA_ESTUDOS.md](file:///home/caio/Documentos/%28E%29%202026_2_%20P%C3%93S%20-%20UFMS%20%28Analista%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o-Gest%C3%A3o%20de%20Projetos%20de%20Software/CRONOGRAMA_ESTUDOS.md)!
+4. **Ao terminar:** Me envie os seus acertos e as questões que errou para montarmos o **Caderno de Erros** e marcarmos o `[x]` do **Dia 05** no [CRONOGRAMA_ESTUDOS.md](../../gestao/CRONOGRAMA_ESTUDOS.md)!
 

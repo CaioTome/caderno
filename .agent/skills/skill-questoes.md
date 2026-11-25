@@ -14,7 +14,7 @@
   - `legislacao/` *(Constitucional, 8.112, 9.784)*
   - `raciocinio-logico/`
   - `lingua-inglesa/`
-- **Nome do arquivo:** `Dia-<XX>-<DD.MM>-<Tema-Curto>.md` usando o **dia real de estudo** (mesmo `Dia-XX` da pasta em `resumos/` e data de hoje).
+- **Nome do arquivo:** `Dia-<XX>-<DD.MM>-<Tema-Curto>.md` usando o **dia real de estudo** e a data de hoje (mesma referência cronológica registrada em `gestao/DIARIO_ESTUDOS.md`).
   - *Exemplo:* `questoes/lingua-portuguesa/Dia-06-25.11-Coesao-Coerencia-Interpretacao.md`
 
 ---
@@ -27,7 +27,7 @@
 4. **Regra Obrigatória de Língua Portuguesa (Intercalação 50/50):**
    - Sempre que a aula for de **Língua Portuguesa**, gerar **5 questões do tema do dia + 5 questões de Compreensão e Interpretação de Textos (Aula 17)**, **intercaladas** (ímpares = tema do dia; pares = Interpretação), pois Interpretação representa ~40% da prova de Português.
 5. **Anti-Repetição & Qualidade:**
-   - **Não repetir** questões que já constam como *Questões-Modelo Resolvidas* no resumo do dia (`resumos/Dia X.../`) nem repetir subtópicos/pegadinhas idênticas.
+   - **Não repetir** questões que já constam como *Questões-Modelo Resolvidas* no resumo da aula (`resumos/<disciplina>/`) nem repetir subtópicos/pegadinhas idênticas.
    - **Descartar** questões com gabarito duvidoso, ambíguo ou contestado pelo próprio comentário do PDF (se for da FAPEC, registrar na seção de *Questões Problemáticas* do resumo).
    - **Equilíbrio:** alternar questões conceituais/interpretativas e questões de decoreba literal.
 
@@ -60,7 +60,8 @@ Todo caderno deve seguir exatamente esta estrutura:
 
 Quando o usuário informar os acertos/erros ou pedir revisão:
 1. Comentar no chat apenas as questões que ele errou ou teve dúvida (com mnemônico/regra se for decoreba).
-2. Atualizar o resumo da aula em `resumos/Dia X.../` com a seção `📊 Resultado da Prática de Questões`.
-3. Atualizar `resumos/01.painel-questoes.md` com o placar consolidado e pontos de atenção.
-4. Marcar `[x]` no `CRONOGRAMA_ESTUDOS.md` quando a aula for concluída.
+2. Atualizar o resumo da aula em `resumos/<disciplina>/` com a seção `📊 Resultado da Prática de Questões` e sugestões para próximas revisões.
+3. Atualizar `gestao/PAINEL_QUESTOES.md` com o placar consolidado e pontos de atenção.
+4. Atualizar `gestao/DIARIO_ESTUDOS.md` (comparativo Planejado × Realizado, problemas e oportunidades) e `gestao/CONTROLE_HORAS.md` (se o candidato informar horas líquidas).
+5. Marcar `[x]` no `gestao/CRONOGRAMA_ESTUDOS.md` quando a aula for concluída.
 

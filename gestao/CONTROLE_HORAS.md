@@ -9,7 +9,7 @@
 | 3 | domingo | 22/11 | | | | | | | |
 | 4 | segunda-feira | 23/11 | Aula 04 — MPS.BR — Melhoria de Processo do Software Brasileiro / Guia de Implementação nível F do MR; Rac. Lógico | 07:31 | | | 17:50:00 | 10:19:00 | |
 | 5 | terça-feira | 24/11 | Aula 01 — Gerenciamento de Projetos / fundamentos de gerência de projetos / PMBOK 6ª Edição / conce... (202 págs) | 07:00 | 10:30 | 13:20 | 18:00 | 08:10 | 05:49 |
-| 6 | quarta-feira | 25/11 | Aula 15 — Coesão e coerência textual + Interpretação (Aula 17) | 07:30 | | | | 0 | |
+| 6 | quarta-feira | 25/11 | Aula 15 — Coesão e coerência textual + Interpretação (Aula 17); Aula 02 RLM — Estruturas Lógicas II (adiantada) | 07:30 | 10:00 | | | 0 | |
 | 7 | quinta-feira | 26/11 | | | | | | 0 | |
 | 8 | sexta-feira | 27/11 | | | | | | 0 | |
 | 9 | sábado | 28/11 | | | | | | 0 | |
