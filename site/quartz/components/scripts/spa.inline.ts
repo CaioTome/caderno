@@ -235,7 +235,12 @@ function syncLeftSidebarToggle() {
   }
 }
 
-document.addEventListener("nav", syncLeftSidebarToggle)
+document.addEventListener("nav", () => {
+  if (window.innerWidth < 1200) {
+    document.documentElement.removeAttribute("data-left-sidebar")
+  }
+  syncLeftSidebarToggle()
+})
 syncLeftSidebarToggle()
 
 if (!customElements.get("route-announcer")) {
