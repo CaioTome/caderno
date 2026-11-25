@@ -238,3 +238,16 @@ Aplicam-se à **Administração Pública Direta e Indireta** de **qualquer dos P
    - Dizer que a **disponibilidade** garante **remuneração integral** (*Falso: é PROPORCIONAL ao tempo de serviço!*);
    - Confundir **Responsabilidade Objetiva** do Estado com a do agente público no regresso (**Subjetiva** — depende de dolo ou culpa);
    - Esquecer que **estatais econômicas** não seguem responsabilidade objetiva nem se submetem ao teto se não receberem dinheiro público de custeio/pessoal.
+
+---
+
+## 📊 Resultado da Prática de Questões
+
+- **Data:** `25/11/2026` *(Dia 06 Real — Aferição da Aula 01)*
+- **Caderno:** [Dia-06-25.11-Adm-Publica-Art37-41.md](../../questoes/legislacao/Dia-06-25.11-Adm-Publica-Art37-41.md)
+- **Placar:** **`7/10` (`70,0%`)** — acertos: Q01, Q04, Q05, Q06, Q08, Q09, Q10; erros: **Q02 (em branco), Q03, Q07**.
+
+### 🔍 Diagnóstico & Pontos para Próximas Revisões
+1. **Contrato de Gestão / Desempenho (Art. 37, § 8º — Q02):** Vale para **órgãos e entidades da Administração Direta e Indireta** (inclusive EP/SEM dependentes), ampliando autonomia gerencial, orçamentária e financeira mediante fixação de metas em lei específica.
+2. **Responsabilidade Civil por Atos Lícitos (Art. 37, § 6º — Q03):** O Estado **responde** por condutas lícitas quando causam dano anormal e específico a particular (ex.: obra pública que fecha acesso de comércio ou desapropriação). A falta de culpa não isenta a responsabilidade objetiva!
+3. **Efeito-Repique / Cascata (Art. 37, XIV) & Vinculação (Art. 37, XIII — Q07):** Acréscimos pecuniários **não** se acumulam nem incidem sobre outros acréscimos (só sobre o vencimento básico), e é vedada a vinculação/equiparação remuneratória.
