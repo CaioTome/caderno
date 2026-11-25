@@ -24,6 +24,16 @@ export const DefaultFrame: PageFrame = {
   }: PageFrameProps) {
     return (
       <>
+        <button
+          type="button"
+          id="left-sidebar-toggle"
+          class="left-sidebar-toggle"
+          aria-label="Mostrar ou esconder menu lateral"
+          aria-expanded="false"
+          title="Menu lateral"
+        >
+          ☰
+        </button>
         <div class="left sidebar" data-sidebar-mode={sidebars?.left ?? "fit"}>
           {left.map((BodyComponent) => (
             <BodyComponent {...componentData} />

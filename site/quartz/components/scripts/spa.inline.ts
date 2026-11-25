@@ -218,6 +218,26 @@ function createRouter() {
 createRouter()
 notifyNav(getFullSlug(window))
 
+function syncLeftSidebarToggle() {
+  const btn = document.getElementById("left-sidebar-toggle")
+  if (!btn) return
+  const isOpen = document.documentElement.getAttribute("data-left-sidebar") === "open"
+  btn.setAttribute("aria-expanded", String(isOpen))
+  btn.textContent = isOpen ? "✕" : "☰"
+  btn.onclick = () => {
+    const currentlyOpen = document.documentElement.getAttribute("data-left-sidebar") === "open"
+    if (currentlyOpen) {
+      document.documentElement.removeAttribute("data-left-sidebar")
+    } else {
+      document.documentElement.setAttribute("data-left-sidebar", "open")
+    }
+    syncLeftSidebarToggle()
+  }
+}
+
+document.addEventListener("nav", syncLeftSidebarToggle)
+syncLeftSidebarToggle()
+
 if (!customElements.get("route-announcer")) {
   const attrs = {
     "aria-live": "assertive",
