@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Radar Atual — Problemas & Oportunidades (`25/11/2026`)
+## 🎯 Radar Atual — Problemas & Oportunidades (`26/11/2026`)
 
 ### 🔴 Problemas & Gargalos (Onde Agir nas Revisões)
 1. **Equivalências Lógicas (`RLM-03`) com `50,0%` (`3/6`):** Menor aproveitamento até aqui; erros concentrados em direção da condicional (`p → q` e *"somente se"*), negação de `⊻` com termo negado e fatoração distributiva `(p → q) ∧ (p → ~r)`. **Ação:** bateria de reforço de 15–20 questões no domingo (`29/11`) ou antes.
@@ -35,6 +35,7 @@
 | **Dia 04 — `23/11` (Seg)** | **LP-17:** Compreensão e Interpretação | Estudada **GTI-04 (MPS.BR)** (prevista p/ `24/11`, `7/10`) e criado resumo **RLM-03 (Equivalências)** (previsto p/ `25/11`); LP-17 marcada `[x]` | `7/10` (`70,0%`) • *Bruto 10:19 (líq. n/r)* | 🟢 **Adiantado (+1/+2 dias)** | MPS.BR teve boa estreia (`70%`), atenção em `CP-F` (`AP 2.2`). |
 | **Dia 05 — `24/11` (Ter)** | **GTI-04:** MPS.BR | Prática de **RLM-03 (Equivalências)** (`3/6`), **GTI-01 (PMBOK 6)** (`3/5` — previsto p/ `26/11`) e **Sessão 2 de MPS.BR** (`4/5`) | `10/16` (`62,5%`) • **Líquido: `05:49`** *(Bruto `08:10`)* | 🟡 **Adiantado em conteúdo, alerta em nota** | **Problemas:** RLM-03 (`50%`) e PMBOK 6 (`60%`, amostra curta). **Positivo:** MPS.BR subiu para `80%` na sessão 2 (`73,3%` geral). |
 | **Dia 06 — `25/11` (Qua)** | **RLM-03:** Equivalências Lógicas *(já iniciada antes)* | Concluída **LP-15** + **LP-17** (`9/10`, prevista p/ `27/11`); concluída **RLM-02 (Estruturas Lógicas II)** (`7/10`, prevista p/ `28/11`); aferida **DC-01 (Adm. Pública)** (`7/10`) | `23/30` (`76,7%` no dia) • *`07:30–10:00` / `13:10–15:08` (`04:28` bruto; líq. n/r)* | 🟢 **Adiantado (+2/+3 dias)** | **Oportunidade:** `LP-15` (`90%`), `RLM-02` (`70%`) e aferição de `DC-01` (`70%`) concluídas. **Alerta:** revisar `RLM-03` (`50%`) e os 3 pontos de literalidade da `CF/88` (Contrato de Gestão, ato lícito, efeito-repique). |
+| **Dia 07 — `26/11` (Qui)** | **GTI-01:** PMBOK 6ª Edição *(já iniciada no Dia 05)* | Iniciada **L8112-01 (Lei 8.112/90 — RJU)** *(prevista p/ `28/11` — Dia 09)*: gerado Resumo de Ramp-Up + Caderno de 10 questões `A–E` | *Aguardando resolução* • *Horas n/r* | 🟡 **Adiantado (+2 dias — em andamento)** | **Oportunidade:** adiantamento de **Lei 8.112/90** abre fôlego para fechar os gargalos da semana (`RLM-03`, `GTI-01`, `RLM-01`) antes de domingo. |
 
 ---
 
@@ -78,4 +79,9 @@
   - Tarde (`13:10–15:08`): concluída **Estruturas Lógicas II** *(prevista para `28/11`)* com **`7/10` (`70,0%`)** em [Dia-06-25.11-Estruturas-Logicas-II.md](../questoes/raciocinio-logico/Dia-06-25.11-Estruturas-Logicas-II.md) (erros em Q01, Q02, Q08); Aula 02 RLM marcada `[x]` no cronograma.
   - Aferida **Adm. Pública (CF Art. 37–41)** com **`7/10` (`70,0%`)** em [Dia-06-25.11-Adm-Publica-Art37-41.md](../questoes/legislacao/Dia-06-25.11-Adm-Publica-Art37-41.md) (erros em Q02, Q03, Q07).
 - **Próximo foco sugerido:** recuperar **Equivalências Lógicas (`RLM-03`, `50%`)** e aferir **Estruturas Lógicas I (`RLM-01`)** antes de abrir tópico novo.
+
+### `Dia 07 — 26/11/2026 (Quinta-feira)` *(em andamento)*
+- **Foco:** Legislação — [L8112-01-Regime-Juridico-Unico.md](../resumos/legislacao/L8112-01-Regime-Juridico-Unico.md) *(prevista no cronograma para `28/11` — Dia 09)*.
+- **Feito até o momento:** Gerado o Resumo de Ramp-Up & Decorebas da Lei nº 8.112/1990 (224 págs.) e o caderno [Dia-07-26.11-Lei-8112-90.md](../questoes/legislacao/Dia-07-26.11-Lei-8112-90.md) com 10 questões `A–E`.
+- **Pendência imediata:** Aguardando respostas do candidato para correção, registro de placar e conclusão `[x]` da aula no cronograma.
 
