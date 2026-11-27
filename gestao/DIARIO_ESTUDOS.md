@@ -37,7 +37,7 @@
 | **Dia 05 — `24/11` (Ter)** | **GTI-04:** MPS.BR | Prática de **RLM-03 (Equivalências)** (`3/6`), **GTI-01 (PMBOK 6)** (`3/5` — previsto p/ `26/11`) e **Sessão 2 de MPS.BR** (`4/5`) | `10/16` (`62,5%`) • **Líquido: `05:49`** *(Bruto `08:10`)* | 🟡 **Adiantado em conteúdo, alerta em nota** | **Problemas:** RLM-03 (`50%`) e PMBOK 6 (`60%`, amostra curta). **Positivo:** MPS.BR subiu para `80%` na sessão 2 (`73,3%` geral). |
 | **Dia 06 — `25/11` (Qua)** | **RLM-03:** Equivalências Lógicas *(já iniciada antes)* | Concluída **LP-15** + **LP-17** (`9/10`, prevista p/ `27/11`); concluída **RLM-02 (Estruturas Lógicas II)** (`7/10`, prevista p/ `28/11`); aferida **DC-01 (Adm. Pública)** (`7/10`) | `23/30` (`76,7%` no dia) • *`07:30–10:00` / `13:10–15:08` (`04:28` bruto; líq. n/r)* | 🟢 **Adiantado (+2/+3 dias)** | **Oportunidade:** `LP-15` (`90%`), `RLM-02` (`70%`) e aferição de `DC-01` (`70%`) concluídas. **Alerta:** revisar `RLM-03` (`50%`) e os 3 pontos de literalidade da `CF/88` (Contrato de Gestão, ato lícito, efeito-repique). |
 | **Dia 07 — `26/11` (Qui)** | **GTI-01:** PMBOK 6ª Edição *(já iniciada no Dia 05)* | Gerado Resumo de Ramp-Up **L8112-01** + Caderno de 10 questões `A–E` *(prevista p/ `28/11` — Dia 09)* | *Preparação de material* • *Horas n/r* | 🟢 **Adiantado (+2 dias)** | **Oportunidade:** material da **Lei 8.112/90** pronto com antecedência para ataque no dia seguinte. |
-| **Dia 08 — `27/11` (Sex)** | **LP-15:** Coesão e Coerência *(já concluída no Dia 06)* | Concluída **L8112-01 (Lei 8.112/90 — RJU)** *(prevista p/ `28/11` — Dia 09)* com bateria de 10 questões `A–E` | `4/10` (`40,0%`) • *`07:00–12:00` / `13:30–...` (em aberto)* | 🔴 **Adiantado (+1 dia), alerta crítico em nota** | **Problema:** `40,0%` indica lacuna de retenção em prazos e conceitos vizinhos (`Q02, Q04, Q07–Q10`). **Oportunidade:** ainda há folga antes de domingo para reforço de `L8112-01` e `RLM-03`. |
+| **Dia 08 — `27/11` (Sex)** | **LP-15:** Coesão e Coerência *(já concluída no Dia 06)* | Concluída **L8112-01 (Lei 8.112/90 — RJU)** *(prevista p/ `28/11` — Dia 09)* com bateria de 10 questões `A–E` | `4/10` (`40,0%`) • *`07:00–12:00` / `13:30–16:20` (`07:50` totais; líq. n/r)* | 🔴 **Adiantado (+1 dia), alerta crítico em nota** | **Problema:** `40,0%` indica lacuna de retenção em prazos e conceitos vizinhos (`Q02, Q04, Q07–Q10`). **Oportunidade:** ainda há folga antes de domingo para reforço de `L8112-01` e `RLM-03`. |
 
 ---
 
@@ -86,9 +86,9 @@
 - **Foco:** Preparação da **Lei 8.112/90** — [L8112-01-Regime-Juridico-Unico.md](../resumos/legislacao/L8112-01-Regime-Juridico-Unico.md) *(prevista no cronograma para `28/11` — Dia 09)*.
 - **Feito:** Gerado o Resumo de Ramp-Up & Decorebas (224 págs.) e o caderno [Dia-07-26.11-Lei-8112-90.md](../questoes/legislacao/Dia-07-26.11-Lei-8112-90.md) com 10 questões `A–E`.
 
-### `Dia 08 — 27/11/2026 (Sexta-feira)` *(em andamento)*
+### `Dia 08 — 27/11/2026 (Sexta-feira)` *(encerrado às `16:20`)*
 - **Foco:** Legislação — **Lei nº 8.112/1990 (RJU)** ([L8112-01-Regime-Juridico-Unico.md](../resumos/legislacao/L8112-01-Regime-Juridico-Unico.md)).
-- **Horário registrado:** Início `07:00`, pausa almoço `12:00`, retorno `13:30` *(horário final ainda em aberto)*.
+- **Horário:** `07:00–12:00` (`05:00`) + `13:30–16:20` (`02:50`) → **`07:50` totais** *(líquido não informado)*.
 - **Feito:** Resolução e correção de [Dia-07-26.11-Lei-8112-90.md](../questoes/legislacao/Dia-07-26.11-Lei-8112-90.md) com **`4/10` (`40,0%`)** — acertos: Q01, Q03, Q05, Q06; erros: **Q02, Q04, Q07, Q08, Q09, Q10**. Aula 01 (Dia 09) marcada `[x]` no cronograma conforme solicitado.
 - **Alerta de professor:** `40,0%` está bem abaixo da meta (`70%+`). Antes de avançar para novos conteúdos, consolidar `L8112-01` (20–25 questões extras no PDF) e atacar os gargalos pendentes (`RLM-03` `50%`, `GTI-01` `3/5` e `RLM-01` sem placar).
 

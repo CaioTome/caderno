@@ -11,7 +11,7 @@
 | 5 | terça-feira | 24/11 | Aula 01 — Gerenciamento de Projetos / fundamentos de gerência de projetos / PMBOK 6ª Edição / conce... (202 págs) | 07:00 | 10:30 | 13:20 | 18:00 | 08:10 | 05:49 |
 | 6 | quarta-feira | 25/11 | Aula 15 LP — Coesão e Coerência + Interpretação; Aula 02 RLM — Estruturas Lógicas II; Bateria 10q Adm. Pública (CF Art. 37–41) | 07:30 | 10:00 | 13:10 | 15:08 | 04:28 | *n/r* |
 | 7 | quinta-feira | 26/11 | | | | | | 0 | |
-| 8 | sexta-feira | 27/11 | Aula 01 — Lei 8.112/1990 (RJU) — Resumo + Caderno 10q | 07:00 | 12:00 | 13:30 | | 0 | |
+| 8 | sexta-feira | 27/11 | Aula 01 — Lei 8.112/1990 (RJU) — Resumo + Caderno 10q | 07:00 | 12:00 | 13:30 | 16:20 | 07:50 | *n/r* |
 | 9 | sábado | 28/11 | | | | | | 0 | |
 | 10 | domingo | 29/11 | | | | | | 0 | |
 | 11 | segunda-feira | 30/11 | | | | | | 0 | |
