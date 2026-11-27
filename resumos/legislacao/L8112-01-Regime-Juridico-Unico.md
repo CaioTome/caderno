@@ -304,3 +304,25 @@
   - **Prioridade 1 (Caderno FAPEC `A–E`):** Resolva primeiro as **10 questões inéditas** em [Dia-07-26.11-Lei-8112-90.md](../../questoes/legislacao/Dia-07-26.11-Lei-8112-90.md).
   - **Prioridade 2 (PDF — Bateria `1.6`, págs. 164–224):** Após corrigir o caderno, ataque as demais questões `A–E` da **CCV-UFC, UFAM, IF Sertão-PE e Colégio Pedro II** nas págs. `173–220`, focando nos pontos que você errar (especialmente tabela de infrações/penalidades pág. `101`, licenças pág. `71` e prazos do PAD pág. `131`).
 - **Meta de Volume:** `10` questões do caderno + `15 a 20` questões extras do PDF nos tópicos de menor segurança.
+
+---
+
+## 📊 Resultado da Prática de Questões
+
+- **Data:** `27/11/2026` *(Dia 08 Real — Adiantado do Dia 09)*
+- **Caderno:** [Dia-07-26.11-Lei-8112-90.md](../../questoes/legislacao/Dia-07-26.11-Lei-8112-90.md)
+- **Placar:** **`4/10` (`40,0%`)** — acertos: Q01, Q03, Q05, Q06; erros: **Q02, Q04, Q07, Q08, Q09, Q10**.
+
+### 🔍 Diagnóstico & Pontos para Próximas Revisões *(🔴 Prioridade Máxima)*
+1. **Q02 — Exoneração × Demissão no Estágio Probatório (`Art. 20, § 2º`):** Reprovação no estágio probatório **não** gera demissão (sanção punitiva), e sim **exoneração** (ou recondução, se estável). A aquisição de estabilidade exige obrigatoriamente **avaliação especial de desempenho por comissão** (`Art. 41, § 4º` CF/88).
+2. **Q04 — Remoção × Redistribuição & Afastamento Preventivo × Suspensão (`Arts. 36, 37, 147`):**
+   - **Remoção** = desloca o **servidor** (mesmo quadro); **Redistribuição** = desloca o **cargo efetivo** (outro órgão/entidade do mesmo Poder).
+   - **Afastamento Preventivo** = medida **cautelar** de até `60+60` dias **com** remuneração (`Art. 147`); **Suspensão** = **penalidade** disciplinar (`Art. 130`).
+3. **Q07 — Cessação Imediata de Insalubridade/Periculosidade (`Art. 68, §§ 1º e 2º`):** Os dois adicionais **não são cumulativos** (o servidor deve optar por um), e o pagamento **cessa imediatamente** quando eliminado o risco (não continua por 3 meses).
+4. **Q08 — Prazos do `Art. 97` (`1 dia` doação de sangue × `2 dias` eleitor × `8 dias` gala/nojo):** Doação de sangue = **`1 dia`**; alistamento/recadastramento eleitoral = até **`2 dias`**; casamento/falecimento = **`8 dias`**; tratamento da própria saúde = até **`24 meses`** de efetivo exercício (`Art. 102, VIII, b`).
+5. **Q09 — Demissão Qualificada (`Art. 137` caput vs. parágrafo único):**
+   - **`5 anos` de incompatibilização (`procura-valer`):** **procurador/intermediário** (`Art. 117, XI`) e **valer-se do cargo** (`Art. 117, IX`).
+   - **`Le-A-P-Im-Co` (`Art. 137, p.ú.`):** Lesão aos cofres, Aplicação irregular, Crime contra Adm., Improbidade, **Corrupção** *(previa impedimento sem prazo na lei; perpetuidade declarada inconstitucional na ADI 2.975)*.
+6. **Q10 — Denúncia identificada (`Art. 144`) & PAD × Sindicância (`Arts. 145 e 148`):** Denúncias exigem **identificação, endereço, forma escrita e confirmação de autenticidade** (`Art. 144`). A definição *"apurar responsabilidade de servidor por infração praticada no exercício de suas atribuições..."* pertence ao **PAD** (`Art. 148`), não à sindicância.
+- **Meta de Reforço:** Resolver **20 a 25 questões extras** das págs. `164–224` do PDF antes de iniciar a Lei nº 9.784/99 (`Aula 02`).
+
