@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Radar Atual — Problemas & Oportunidades (`27/11/2026`)
+## 🎯 Radar Atual — Problemas & Oportunidades (`28/11/2026`)
 
 ### 🔴 Problemas & Gargalos (Onde Agir nas Revisões)
 1. **Lei nº 8.112/1990 — RJU (`L8112-01`) com `40,0%` (`4/10`):** Menor aproveitamento do painel até aqui (`27/11`). Os 6 erros (`Q02, Q04, Q07, Q08, Q09, Q10`) concentraram-se em **troca de conceitos vizinhos** (*demissão × exoneração*, *remoção × redistribuição × substituição*, *afastamento preventivo × suspensão*, *PAD × sindicância*) e **prazos/regras literais** (*cessação imediata da insalubridade*, *doação de sangue `1d`*, *`procura-valer` `5a` × `Le-A-P-Im-Co`*, *denúncia identificada*). **Ação:** bateria de reforço de **20–25 questões** no PDF (`págs. 164–224`) + revisão das tabelas antes de abrir a Lei 9.784/99.
@@ -38,6 +38,7 @@
 | **Dia 06 — `25/11` (Qua)** | **RLM-03:** Equivalências Lógicas *(já iniciada antes)* | Concluída **LP-15** + **LP-17** (`9/10`, prevista p/ `27/11`); concluída **RLM-02 (Estruturas Lógicas II)** (`7/10`, prevista p/ `28/11`); aferida **DC-01 (Adm. Pública)** (`7/10`) | `23/30` (`76,7%` no dia) • *`07:30–10:00` / `13:10–15:08` (`04:28` bruto; líq. n/r)* | 🟢 **Adiantado (+2/+3 dias)** | **Oportunidade:** `LP-15` (`90%`), `RLM-02` (`70%`) e aferição de `DC-01` (`70%`) concluídas. **Alerta:** revisar `RLM-03` (`50%`) e os 3 pontos de literalidade da `CF/88` (Contrato de Gestão, ato lícito, efeito-repique). |
 | **Dia 07 — `26/11` (Qui)** | **GTI-01:** PMBOK 6ª Edição *(já iniciada no Dia 05)* | Gerado Resumo de Ramp-Up **L8112-01** + Caderno de 10 questões `A–E` *(prevista p/ `28/11` — Dia 09)* | *Preparação de material* • *Horas n/r* | 🟢 **Adiantado (+2 dias)** | **Oportunidade:** material da **Lei 8.112/90** pronto com antecedência para ataque no dia seguinte. |
 | **Dia 08 — `27/11` (Sex)** | **LP-15:** Coesão e Coerência *(já concluída no Dia 06)* | Concluída **L8112-01 (Lei 8.112/90 — RJU)** *(prevista p/ `28/11` — Dia 09)* com bateria de 10 questões `A–E` | `4/10` (`40,0%`) • *`07:00–12:00` / `13:30–16:20` (`07:50` totais; líq. n/r)* | 🔴 **Adiantado (+1 dia), alerta crítico em nota** | **Problema:** `40,0%` indica lacuna de retenção em prazos e conceitos vizinhos (`Q02, Q04, Q07–Q10`). **Oportunidade:** ainda há folga antes de domingo para reforço de `L8112-01` e `RLM-03`. |
+| **Dia 09 — `28/11` (Sáb)** | **L8112-01** + **RLM-02** *(ambas já concluídas antes!)* | Criado [PLANO_REVISAO.md](PLANO_REVISAO.md) (`7/15/30`) e executada **Revisão `R1 (+7d)`** de **LTI-01 (IN 94/2022)** + **DC-01 (CF Art. 37–41)** (`20q` intercaladas) | `15/20` (`75,0%`: `8/10` LTI + `7/10` DC) • *`10:00–14:00` (`04:00` totais; líq. n/r)* | 🟢 **Em dia + Revisão R1 ativa** | **Positivo:** `IN 94/2022` mantém **`81,3%`** (`26/32`) após 7 dias! **Alerta:** reincidência em **Responsabilidade Objetiva (`Art. 37, §6º`)** em `DC-01`. |
 
 ---
 
@@ -91,4 +92,10 @@
 - **Horário:** `07:00–12:00` (`05:00`) + `13:30–16:20` (`02:50`) → **`07:50` totais** *(líquido não informado)*.
 - **Feito:** Resolução e correção de [Dia-07-26.11-Lei-8112-90.md](../questoes/legislacao/Dia-07-26.11-Lei-8112-90.md) com **`4/10` (`40,0%`)** — acertos: Q01, Q03, Q05, Q06; erros: **Q02, Q04, Q07, Q08, Q09, Q10**. Aula 01 (Dia 09) marcada `[x]` no cronograma conforme solicitado.
 - **Alerta de professor:** `40,0%` está bem abaixo da meta (`70%+`). Antes de avançar para novos conteúdos, consolidar `L8112-01` (20–25 questões extras no PDF) e atacar os gargalos pendentes (`RLM-03` `50%`, `GTI-01` `3/5` e `RLM-01` sem placar).
+
+### `Dia 09 — 28/11/2026 (Sábado)` *(encerrado às `14:00`)*
+- **Foco:** Implantação do ciclo de revisão espaçada (`7 / 15 / 30`) em [PLANO_REVISAO.md](PLANO_REVISAO.md) + **Revisão `R1 (+7d)`** de **IN 94/2022 (`LTI-01`)** e **Direito Constitucional (`DC-01`)**.
+- **Horário:** `10:00–14:00` → **`04:00` totais** *(líquido não informado)*.
+- **Feito:** Resolvido [Dia-09-28.11-Rev-R1-IN94-e-DC01.md](../questoes/revisoes/Dia-09-28.11-Rev-R1-IN94-e-DC01.md) com **`15/20` (`75,0%`)** (`LTI-01`: `8/10 = 80,0%`, consolidado `26/32 = 81,3%`; `DC-01`: `7/10 = 70,0%`, consolidado `14/20 = 70,0%`). `R1 (+7d)` marcado `[x]` para ambas em `PLANO_REVISAO.md`.
+- **Próximo foco (domingo `29/11`):** **`RLM-03` Equivalências (`50%`)** + **`RLM-01` Estruturas I (`R1 +7d` — aferição 10q)**.
 

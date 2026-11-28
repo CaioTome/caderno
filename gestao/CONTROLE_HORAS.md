@@ -12,7 +12,7 @@
 | 6 | quarta-feira | 25/11 | Aula 15 LP — Coesão e Coerência + Interpretação; Aula 02 RLM — Estruturas Lógicas II; Bateria 10q Adm. Pública (CF Art. 37–41) | 07:30 | 10:00 | 13:10 | 15:08 | 04:28 | *n/r* |
 | 7 | quinta-feira | 26/11 | | | | | | 0 | |
 | 8 | sexta-feira | 27/11 | Aula 01 — Lei 8.112/1990 (RJU) — Resumo + Caderno 10q | 07:00 | 12:00 | 13:30 | 16:20 | 07:50 | *n/r* |
-| 9 | sábado | 28/11 | | 10:00 | | | | 0 | |
+| 9 | sábado | 28/11 | Revisão R1 (+7d): LTI-01 (IN 94/2022) + DC-01 (CF Art. 37–41) — 20q | 10:00 | | | 14:00 | 04:00 | *n/r* |
 | 10 | domingo | 29/11 | | | | | | 0 | |
 | 11 | segunda-feira | 30/11 | | | | | | 0 | |
 | 12 | terça-feira | 1/12 | | | | | | 0 | |

@@ -39,8 +39,8 @@
 
 | Aula | Conteúdo | Dia 0 (Real) | Placar Atual | `R1 (+7d)` | `R2 (+15d)` | `R3 (+30d)` | Foco Principal da Revisão |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **LTI-01** | IN SGD/ME nº 94/2022 | `20/11` | `81,8%` *(18/22)* | `[ ]` `28/11` *(venceu 27/11)* | `[ ]` `05/12` | `[ ]` `20/12` | Papéis EPC × EFC, artefatos (DFD/ETP/TR) e Anexo I (*Cloud First*). |
-| **DC-01** | Adm. Pública (CF Art. 37–41) | `21/11` | `70,0%` *(7/10)* | `[ ]` `28/11` | `[ ]` `06/12` | `[ ]` `21/12` | Contrato de Gestão (`§8º`), atos lícitos (`§6º`) e efeito-repique (`XIII/XIV`). |
+| **LTI-01** | IN SGD/ME nº 94/2022 | `20/11` | `81,3%` *(26/32)* | `[x]` `28/11` *(8/10)* | `[ ]` `05/12` | `[ ]` `20/12` | Registro de Oportunidade (*Competitividade*) e Fiscal Técnico × Requisitante. |
+| **DC-01** | Adm. Pública (CF Art. 37–41) | `21/11` | `70,0%` *(14/20)* | `[x]` `28/11` *(7/10)* | `[ ]` `06/12` | `[ ]` `21/12` | Responsabilidade Objetiva (`§6º` — reincidente!), LC do ente no RPPS (`§4º-C`) e Paridade (`XII`). |
 | **RLM-01** | Estruturas Lógicas I | `21/11` | *Sem placar* 🟡 | `[ ]` `28/11` | `[ ]` `06/12` | `[ ]` `21/12` | Aferir com 10q `A–E` (proposições simples/compostas e conectivos). |
 | **LP-17** | Interpretação de Textos | `22/11` | `100,0%` *(5/5)* | *(Treino contínuo 50/50)* | *(Contínuo)* | *(Contínuo)* | Mantida automaticamente via regra 50/50 em todas as aulas de LP. |
 | **GTI-04** | MPS.BR (Nível F) | `23/11` | `73,3%` *(11/15)* | `[ ]` `30/11` | `[ ]` `08/12` | `[ ]` `23/12` | `CP-F` (`AP 2.2`), `GQA` e os 5 processos do Nível F (`GPR/GQA/GPP/GCO/AQU`). |

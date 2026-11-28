@@ -246,8 +246,12 @@ Aplicam-se à **Administração Pública Direta e Indireta** de **qualquer dos P
 - **Data:** `25/11/2026` *(Dia 06 Real — Aferição da Aula 01)*
 - **Caderno:** [Dia-06-25.11-Adm-Publica-Art37-41.md](../../questoes/legislacao/Dia-06-25.11-Adm-Publica-Art37-41.md)
 - **Placar:** **`7/10` (`70,0%`)** — acertos: Q01, Q04, Q05, Q06, Q08, Q09, Q10; erros: **Q02 (em branco), Q03, Q07**.
+- **Revisão `R1 (+7d)` (`28/11/2026` — Dia 09 Real):** **`7/10` (`70,0%`)** em [Dia-09-28.11-Rev-R1-IN94-e-DC01.md](../../questoes/revisoes/Dia-09-28.11-Rev-R1-IN94-e-DC01.md) *(acertos: Q02, Q04, Q10, Q12, Q16, Q18, Q20; erros: **Q06, Q08, Q14**)*.
+- **Consolidado:** **`14/20` (`70,0%`)**.
 
 ### 🔍 Diagnóstico & Pontos para Próximas Revisões
-1. **Contrato de Gestão / Desempenho (Art. 37, § 8º — Q02):** Vale para **órgãos e entidades da Administração Direta e Indireta** (inclusive EP/SEM dependentes), ampliando autonomia gerencial, orçamentária e financeira mediante fixação de metas em lei específica.
-2. **Responsabilidade Civil por Atos Lícitos (Art. 37, § 6º — Q03):** O Estado **responde** por condutas lícitas quando causam dano anormal e específico a particular (ex.: obra pública que fecha acesso de comércio ou desapropriação). A falta de culpa não isenta a responsabilidade objetiva!
-3. **Efeito-Repique / Cascata (Art. 37, XIV) & Vinculação (Art. 37, XIII — Q07):** Acréscimos pecuniários **não** se acumulam nem incidem sobre outros acréscimos (só sobre o vencimento básico), e é vedada a vinculação/equiparação remuneratória.
+1. **Contrato de Gestão / Desempenho (Art. 37, § 8º — Q02 `25/11`):** Vale para **órgãos e entidades da Administração Direta e Indireta** (inclusive EP/SEM dependentes), ampliando autonomia gerencial, orçamentária e financeira mediante fixação de metas em lei específica.
+2. **Responsabilidade Civil Objetiva / Risco Administrativo (Art. 37, § 6º — Q03 `25/11` & Q08 `28/11`):** O Estado responde **objetivamente** (independe de dolo ou culpa!), tanto por **atos lícitos** com dano anormal quanto em **operações de segurança pública com perícia inconclusiva** (*STF Tema 1237*). Dolo/culpa só entra na **ação regressiva** contra o agente!
+3. **Efeito-Repique / Cascata (Art. 37, XIV) & Vinculação (Art. 37, XIII — Q07 `25/11`):** Acréscimos pecuniários **não** se acumulam nem incidem sobre outros acréscimos (só sobre o vencimento básico), e é vedada a vinculação/equiparação remuneratória.
+4. **RPPS Municipal pós-EC 103/2019 (`Art. 40, §§ 4º-C e 19` — Q06 `28/11`):** Cada ente federativo disciplina seu RPPS por lei própria (**Lei Complementar do ente** para aposentadoria especial por agentes nocivos; **lei ordinária do ente** para abono de permanência) — não é reserva de LC federal.
+5. **Paridade entre Poderes (`Art. 37, XII` — Q14 `28/11`):** Os vencimentos do **Legislativo e Judiciário** não podem ser superiores aos do **Poder Executivo** *(cuidado com inversão de Poderes!)*.
