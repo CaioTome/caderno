@@ -21,6 +21,7 @@ Em vez de estudar na ordem puramente linear ou puramente isolada por incidência
 ### ⚡ Protocolo Diário para Engenheiro de Software (Como estudar cada modo)
 - **`⚡ Estudo Reverso (Fast-Track Eng. Software)`:** Usado em aulas gigantes que você já conhece na prática (ex: *Testes de Software* tem **431 páginas**, *Requisitos* tem **308 páginas**, *Scrum* tem **283 páginas**). **Proibido ler a teoria da página 1!** Abra o **Resumo de Ramp-Up / Mapa Mental** (10 min), vá direto ao final do PDF e resolva **25 a 30 questões comentadas**. Só volte na teoria nos subtópicos específicos que você errar (ex: nome formal de uma técnica do BABOK, classificação do Sommerville/Pressman ou regra literal do Scrum Guide).
 - **`🎯 Teoria Direcionada / Decoreba de Banca`:** Usado onde a experiência de mercado não basta porque a banca cobra a literalidade da norma (ex: *IN SGD/ME 94/2022*, *MPS.BR Nível F*, *ISO/IEC 9126 vs 25010*, *49 processos do PMBOK 6*, *Prazos das Leis 8.112 e 9.784*, *Tabela de Conjunções*). Aqui você estuda o **Ramp-Up em `/resumos`** e os quadros-resumo/tabelas da teoria, monta flashcards/anotações curtas e depois ataca as questões.
+- **`🔁 Revisão Espaçada (7 / 15 / 30 dias — Teto de 45–60 min/dia)`:** Acompanhe as datas exatas de revisão em [PLANO_REVISAO.md](PLANO_REVISAO.md). Todo dia antes da aula nova, revise os tópicos vencidos (`+24h` se nota `<65%`, `+7d`, `+15d`, `+30d`) sempre por recuperação ativa e questões, usando os domingos para absorver eventuais saldos.
 
 ### 🎯 Raio-X e Calibragem para a Banca FAPEC (Comissão FACOM/UFMS)
 
@@ -49,10 +50,10 @@ Como os PDFs do curso trazem baterias divididas entre **CEBRASPE**, **FGV** e **
 | 💻 TI - Específica | **Engenharia de Software** | `7` | `1236 págs` | `01 (Requisitos)` ➔ `07 (Scrum)` ➔ `03 (Testes)` ➔ `05 (TDD)` ➔ `02 (Qualidade ISO)` ➔ `04 (CI/CD)` ➔ `06 (Refactoring)` | [📂 Abrir](Mat%C3%A9rias/Engenharia%20de%20Software%20para%20UFMS%20%28Analista%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o_Gest%C3%A3o%20de%20Projetos%20de%20Software%29) | `[ ] 0/7` |
 | ⚖️ Legislação | **Direito Constitucional** | `1` | `148 págs` | Aula `01 (Art. 37 a 41 — Administração Pública)` | [📂 Abrir](Mat%C3%A9rias/Direito%20Constitucional%20para%20UFMS) | `[x] 1/1` |
 | ⚖️ Legislação | **Leis 8.112/90 e 9.784/99** | `2` | `444 págs` | `01 (Lei 8.112/90)` ✅ ➔ `02 (Lei 9.784/99 - Processo Adm.)` | [📂 Abrir](Mat%C3%A9rias/Lei%20n%C2%BA%208.112_90%20%2B%20Lei%20n%C2%BA%209.784_99%20para%20UFMS) | `[ ] 1/2` |
-| 📘 Básica | **Língua Portuguesa** | `17` | `2630 págs` | `17` ✅ ➔ `15` *(Textual)* ➔ `03 → 04 → 05 → 06 → 08 → 09 → 10 → 11 → 12` *(Cadeia Gramatical)* ➔ `16, 13, 14` *(Textual)* ➔ `02, 07, 01` *(Léxico/Rev.)* | [📂 Abrir](Mat%C3%A9rias/L%C3%ADngua%20Portuguesa%20para%20UFMS) | `[ ] 1/17` |
-| 📐 Básica | **Raciocínio Lógico** | `13` | `1844 págs` | `01` ✅, `03` ✅ ➔ `02 → 04 → 05` *(Lógica)* ➔ `09 → 08 → 10 → 11` *(Mat.)* + `06 → 07` *(Probl.)* ➔ `12 → 13` *(Comb./Prob.)* | [📂 Abrir](Mat%C3%A9rias/Racioc%C3%ADnio%20L%C3%B3gico%20para%20UFMS) | `[ ] 2/13` |
+| 📘 Básica | **Língua Portuguesa** | `17` | `2630 págs` | `17` ✅ ➔ `15` ✅ *(Textual)* ➔ `03 → 04 → 05 → 06 → 08 → 09 → 10 → 11 → 12` *(Cadeia Gramatical)* ➔ `16, 13, 14` *(Textual)* ➔ `02, 07, 01` *(Léxico/Rev.)* | [📂 Abrir](Mat%C3%A9rias/L%C3%ADngua%20Portuguesa%20para%20UFMS) | `[ ] 2/17` |
+| 📐 Básica | **Raciocínio Lógico** | `13` | `1844 págs` | `01` ✅, `03` ✅, `02` ✅ ➔ `04 → 05` *(Lógica)* ➔ `09 → 08 → 10 → 11` *(Mat.)* + `06 → 07` *(Probl.)* ➔ `12 → 13` *(Comb./Prob.)* | [📂 Abrir](Mat%C3%A9rias/Racioc%C3%ADnio%20L%C3%B3gico%20para%20UFMS) | `[ ] 3/13` |
 | 🌎 Básica | **Língua Inglesa** | `7` | `868 págs` | `01` ➔ `02` ➔ `03` ➔ `04` ➔ `05` ➔ `06` ➔ `07` *(Ordem natural)* | [📂 Abrir](Mat%C3%A9rias/L%C3%ADngua%20Inglesa%20para%20UFMS) | `[ ] 0/7` |
-| **TOTAL** | **8 Disciplinas** | **53 Aulas** | **`8055 págs`** | **100% de TI fechado em 25/12 • 100% Geral em 09/01** | — | `[ ] 8/53` |
+| **TOTAL** | **8 Disciplinas** | **53 Aulas** | **`8055 págs`** | **100% de TI fechado em 25/12 • 100% Geral em 09/01** | — | `[ ] 10/53` |
 
 ---
 

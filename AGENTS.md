@@ -20,6 +20,7 @@
 | Caminho | Função |
 | :--- | :--- |
 | [gestao/CRONOGRAMA_ESTUDOS.md](gestao/CRONOGRAMA_ESTUDOS.md) | Cronograma mestre planejado de 53 aulas (`20/11/2026` a `10/01/2027`) com status `[ ]`/`[x]` e links de apoio. |
+| [gestao/PLANO_REVISAO.md](gestao/PLANO_REVISAO.md) | Agenda de revisão espaçada (`+24h` p/ nota `<65%`, `+7d`, `+15d`, `+30d`) com teto diário de 45–60 min e controle por aula. |
 | [gestao/DIARIO_ESTUDOS.md](gestao/DIARIO_ESTUDOS.md) | Diário real dia a dia comparando **Planejado × Realizado** para identificar problemas, lacunas e oportunidades. |
 | [gestao/PAINEL_QUESTOES.md](gestao/PAINEL_QUESTOES.md) | Placar consolidado de acertos, aproveitamento e pontos de revisão por matéria. |
 | [gestao/CONTROLE_HORAS.md](gestao/CONTROLE_HORAS.md) | Registro diário de horários e tempo líquido de estudo. |
